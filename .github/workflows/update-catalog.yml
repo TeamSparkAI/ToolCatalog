@@ -40,7 +40,6 @@ jobs:
       - name: Run catalog build
         run: pnpm catalog:build
         env:
-          GH_PAT_RO: ${{ secrets.GH_PAT_RO }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Check for changes
