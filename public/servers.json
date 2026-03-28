@@ -7,8 +7,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -31,8 +31,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -54,8 +54,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -80,8 +80,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -105,8 +105,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -129,8 +129,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -153,8 +153,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
       "source": "github",
-      "stars": 82229,
-      "lastUpdated": "2026-03-27T03:06:53Z"
+      "stars": 82312,
+      "lastUpdated": "2026-03-28T02:49:04Z"
     },
     "tags": [
       "reference"
@@ -176,8 +176,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -206,8 +206,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -234,8 +234,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -262,8 +262,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -290,8 +290,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -319,8 +319,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -347,8 +347,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -375,8 +375,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -401,8 +401,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -426,8 +426,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -452,8 +452,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -478,8 +478,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -508,8 +508,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
       "source": "github",
-      "stars": 239,
-      "lastUpdated": "2026-03-25T07:59:12Z"
+      "stars": 238,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "reference",
@@ -534,8 +534,8 @@
     "repository": {
       "url": "https://github.com/21st-dev/magic-mcp",
       "source": "github",
-      "stars": 4571,
-      "lastUpdated": "2026-03-27T03:06:37Z"
+      "stars": 4578,
+      "lastUpdated": "2026-03-28T01:07:39Z"
     },
     "tags": [
       "official"
@@ -661,8 +661,8 @@
     "repository": {
       "url": "https://github.com/tinyfish-io/agentql-mcp",
       "source": "github",
-      "stars": 152,
-      "lastUpdated": "2026-03-27T01:43:40Z"
+      "stars": 154,
+      "lastUpdated": "2026-03-28T02:01:07Z"
     },
     "tags": [
       "official"
@@ -791,8 +791,8 @@
     "repository": {
       "url": "https://github.com/Alation/alation-ai-agent-sdk",
       "source": "github",
-      "stars": 17,
-      "lastUpdated": "2026-02-20T14:50:13Z"
+      "stars": 18,
+      "lastUpdated": "2026-03-27T21:55:46Z"
     },
     "tags": [
       "official"
@@ -1112,8 +1112,8 @@
     "repository": {
       "url": "https://github.com/alpacahq/alpaca-mcp-server",
       "source": "github",
-      "stars": 582,
-      "lastUpdated": "2026-03-26T22:22:41Z"
+      "stars": 584,
+      "lastUpdated": "2026-03-27T23:11:08Z"
     },
     "tags": [
       "official"
@@ -1209,8 +1209,8 @@
     "repository": {
       "url": "https://github.com/anyproto/anytype-mcp",
       "source": "github",
-      "stars": 356,
-      "lastUpdated": "2026-03-26T06:31:03Z"
+      "stars": 357,
+      "lastUpdated": "2026-03-27T22:01:43Z"
     },
     "tags": [
       "official"
@@ -1328,8 +1328,8 @@
     "repository": {
       "url": "https://github.com/apify/apify-mcp-server",
       "source": "github",
-      "stars": 964,
-      "lastUpdated": "2026-03-26T11:02:59Z"
+      "stars": 972,
+      "lastUpdated": "2026-03-28T00:52:37Z"
     },
     "tags": [
       "official"
@@ -1378,7 +1378,7 @@
       "url": "https://github.com/apollographql/apollo-mcp-server/",
       "source": "github",
       "stars": 276,
-      "lastUpdated": "2026-03-26T21:14:03Z"
+      "lastUpdated": "2026-03-27T19:51:36Z"
     },
     "tags": [
       "official"
@@ -1392,8 +1392,8 @@
     "repository": {
       "url": "https://github.com/appium/appium-mcp.git",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-03-26T07:43:32Z"
+      "stars": 269,
+      "lastUpdated": "2026-03-27T12:44:44Z"
     },
     "tags": [
       "official"
@@ -1447,8 +1447,8 @@
     "repository": {
       "url": "https://github.com/Arize-ai/phoenix/tree/main/js/packages/phoenix-mcp",
       "source": "github",
-      "stars": 9053,
-      "lastUpdated": "2026-03-27T02:08:31Z"
+      "stars": 9065,
+      "lastUpdated": "2026-03-28T02:30:24Z"
     },
     "tags": [
       "official"
@@ -1706,8 +1706,8 @@
     "repository": {
       "url": "https://github.com/awslabs/mcp",
       "source": "github",
-      "stars": 8580,
-      "lastUpdated": "2026-03-26T21:40:55Z"
+      "stars": 8594,
+      "lastUpdated": "2026-03-28T02:39:01Z"
     },
     "tags": [
       "official"
@@ -1760,8 +1760,8 @@
     "repository": {
       "url": "https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server",
       "source": "github",
-      "stars": 2866,
-      "lastUpdated": "2026-03-27T00:56:39Z"
+      "stars": 2879,
+      "lastUpdated": "2026-03-27T22:00:10Z"
     },
     "tags": [
       "official"
@@ -1788,8 +1788,8 @@
     "repository": {
       "url": "https://github.com/microsoft/azure-devops-mcp",
       "source": "github",
-      "stars": 1477,
-      "lastUpdated": "2026-03-27T03:05:25Z"
+      "stars": 1483,
+      "lastUpdated": "2026-03-27T20:47:02Z"
     },
     "tags": [
       "official"
@@ -2092,8 +2092,8 @@
     "repository": {
       "url": "https://github.com/luminati-io/brightdata-mcp",
       "source": "github",
-      "stars": 2239,
-      "lastUpdated": "2026-03-27T02:33:34Z"
+      "stars": 2242,
+      "lastUpdated": "2026-03-27T15:56:01Z"
     },
     "tags": [
       "official"
@@ -2118,8 +2118,8 @@
     "repository": {
       "url": "https://github.com/browserbase/mcp-server-browserbase",
       "source": "github",
-      "stars": 3209,
-      "lastUpdated": "2026-03-26T12:45:22Z"
+      "stars": 3213,
+      "lastUpdated": "2026-03-28T02:26:10Z"
     },
     "tags": [
       "official"
@@ -2147,7 +2147,7 @@
       "url": "https://github.com/browserstack/mcp-server",
       "source": "github",
       "stars": 131,
-      "lastUpdated": "2026-03-23T06:42:47Z"
+      "lastUpdated": "2026-03-27T06:27:59Z"
     },
     "tags": [
       "official"
@@ -2228,8 +2228,8 @@
     "repository": {
       "url": "https://github.com/PortSwigger/mcp-server",
       "source": "github",
-      "stars": 599,
-      "lastUpdated": "2026-03-26T21:04:24Z"
+      "stars": 600,
+      "lastUpdated": "2026-03-27T20:48:45Z"
     },
     "tags": [
       "official"
@@ -2474,8 +2474,8 @@
     "repository": {
       "url": "https://github.com/chroma-core/chroma-mcp",
       "source": "github",
-      "stars": 519,
-      "lastUpdated": "2026-03-26T20:11:34Z"
+      "stars": 522,
+      "lastUpdated": "2026-03-27T21:15:40Z"
     },
     "tags": [
       "official"
@@ -2497,8 +2497,8 @@
     "repository": {
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "source": "github",
-      "stars": 31778,
-      "lastUpdated": "2026-03-27T03:13:24Z"
+      "stars": 31979,
+      "lastUpdated": "2026-03-28T03:02:22Z"
     },
     "tags": [
       "official"
@@ -2576,8 +2576,8 @@
     "repository": {
       "url": "https://github.com/zilliztech/claude-context",
       "source": "github",
-      "stars": 5769,
-      "lastUpdated": "2026-03-27T02:44:14Z"
+      "stars": 5772,
+      "lastUpdated": "2026-03-27T23:22:01Z"
     },
     "tags": [
       "official"
@@ -2616,8 +2616,8 @@
     "repository": {
       "url": "https://github.com/ClickHouse/mcp-clickhouse",
       "source": "github",
-      "stars": 730,
-      "lastUpdated": "2026-03-26T17:26:52Z"
+      "stars": 733,
+      "lastUpdated": "2026-03-27T14:46:54Z"
     },
     "tags": [
       "official"
@@ -2707,8 +2707,8 @@
     "repository": {
       "url": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
       "source": "github",
-      "stars": 981,
-      "lastUpdated": "2026-03-27T03:03:57Z"
+      "stars": 982,
+      "lastUpdated": "2026-03-27T23:33:44Z"
     },
     "tags": [
       "official"
@@ -2803,8 +2803,8 @@
     "repository": {
       "url": "https://github.com/cloudflare/mcp-server-cloudflare",
       "source": "github",
-      "stars": 3570,
-      "lastUpdated": "2026-03-26T22:25:53Z"
+      "stars": 3575,
+      "lastUpdated": "2026-03-28T00:19:21Z"
     },
     "tags": [
       "official"
@@ -3276,8 +3276,8 @@
     "repository": {
       "url": "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
       "source": "github",
-      "stars": 29,
-      "lastUpdated": "2026-03-26T14:09:00Z"
+      "stars": 30,
+      "lastUpdated": "2026-03-27T22:36:55Z"
     },
     "tags": [
       "official"
@@ -3344,8 +3344,8 @@
     "repository": {
       "url": "https://github.com/CrowdStrike/falcon-mcp",
       "source": "github",
-      "stars": 129,
-      "lastUpdated": "2026-03-27T02:43:49Z"
+      "stars": 130,
+      "lastUpdated": "2026-03-27T09:09:43Z"
     },
     "tags": [
       "official"
@@ -3448,7 +3448,7 @@
       "url": "https://github.com/cycodehq/cycode-cli#mcp-command-experiment",
       "source": "github",
       "stars": 97,
-      "lastUpdated": "2026-03-26T15:06:07Z"
+      "lastUpdated": "2026-03-27T09:31:21Z"
     },
     "tags": [
       "official"
@@ -3520,8 +3520,8 @@
     "repository": {
       "url": "https://github.com/palewire/datawrapper-mcp",
       "source": "github",
-      "stars": 30,
-      "lastUpdated": "2026-03-26T20:30:37Z"
+      "stars": 31,
+      "lastUpdated": "2026-03-27T15:19:26Z"
     },
     "tags": [
       "official"
@@ -3546,8 +3546,8 @@
     "repository": {
       "url": "https://github.com/daytonaio/daytona/tree/main/apps/cli/mcp",
       "source": "github",
-      "stars": 70851,
-      "lastUpdated": "2026-03-27T03:09:32Z"
+      "stars": 70879,
+      "lastUpdated": "2026-03-28T03:03:59Z"
     },
     "tags": [
       "official"
@@ -3627,8 +3627,8 @@
     "repository": {
       "url": "https://github.com/shenqingtech/deepq-financial-toolkit-mcp-server",
       "source": "github",
-      "stars": 4,
-      "lastUpdated": "2026-03-27T01:03:44Z"
+      "stars": 5,
+      "lastUpdated": "2026-03-27T09:11:21Z"
     },
     "tags": [
       "official"
@@ -3656,7 +3656,7 @@
       "url": "https://github.com/DefangLabs/defang/blob/main/src/pkg/mcp/README.md",
       "source": "github",
       "stars": 150,
-      "lastUpdated": "2026-03-27T01:14:31Z"
+      "lastUpdated": "2026-03-27T19:29:48Z"
     },
     "tags": [
       "official"
@@ -3671,7 +3671,7 @@
       "url": "https://github.com/deployhq/deployhq-mcp-server",
       "source": "github",
       "stars": 12,
-      "lastUpdated": "2026-03-16T14:28:08Z"
+      "lastUpdated": "2026-03-27T06:36:45Z"
     },
     "tags": [
       "official"
@@ -3817,8 +3817,8 @@
     "repository": {
       "url": "https://github.com/dolthub/dolt-mcp",
       "source": "github",
-      "stars": 11,
-      "lastUpdated": "2026-03-26T10:36:24Z"
+      "stars": 12,
+      "lastUpdated": "2026-03-27T12:07:09Z"
     },
     "tags": [
       "official"
@@ -3882,7 +3882,7 @@
       "url": "https://github.com/dynatrace-oss/dynatrace-mcp",
       "source": "github",
       "stars": 99,
-      "lastUpdated": "2026-03-26T13:38:34Z"
+      "lastUpdated": "2026-03-27T08:26:21Z"
     },
     "tags": [
       "official"
@@ -3908,8 +3908,8 @@
     "repository": {
       "url": "https://github.com/e2b-dev/mcp-server",
       "source": "github",
-      "stars": 384,
-      "lastUpdated": "2026-03-20T11:45:19Z"
+      "stars": 385,
+      "lastUpdated": "2026-03-27T17:10:17Z"
     },
     "tags": [
       "official"
@@ -3951,7 +3951,7 @@
       "url": "https://github.com/EduBase/MCP",
       "source": "github",
       "stars": 24,
-      "lastUpdated": "2026-03-18T21:08:09Z"
+      "lastUpdated": "2026-03-27T09:38:53Z"
     },
     "tags": [
       "official"
@@ -3979,8 +3979,8 @@
     "repository": {
       "url": "https://github.com/elastic/mcp-server-elasticsearch",
       "source": "github",
-      "stars": 632,
-      "lastUpdated": "2026-03-26T02:12:05Z"
+      "stars": 633,
+      "lastUpdated": "2026-03-27T15:55:38Z"
     },
     "tags": [
       "official"
@@ -4126,8 +4126,8 @@
     "repository": {
       "url": "https://github.com/exa-labs/exa-mcp-server",
       "source": "github",
-      "stars": 4097,
-      "lastUpdated": "2026-03-26T19:12:43Z"
+      "stars": 4106,
+      "lastUpdated": "2026-03-28T01:53:04Z"
     },
     "tags": [
       "official"
@@ -4271,8 +4271,8 @@
     "repository": {
       "url": "https://github.com/figma/mcp-server-guide",
       "source": "github",
-      "stars": 667,
-      "lastUpdated": "2026-03-27T02:38:10Z"
+      "stars": 714,
+      "lastUpdated": "2026-03-28T01:56:17Z"
     },
     "tags": [
       "official"
@@ -4291,8 +4291,8 @@
     "repository": {
       "url": "https://github.com/financial-datasets/mcp-server",
       "source": "github",
-      "stars": 1720,
-      "lastUpdated": "2026-03-27T02:44:06Z"
+      "stars": 1722,
+      "lastUpdated": "2026-03-27T20:08:32Z"
     },
     "tags": [
       "official"
@@ -4306,8 +4306,8 @@
     "repository": {
       "url": "https://github.com/firebase/firebase-tools/blob/master/src/mcp",
       "source": "github",
-      "stars": 4374,
-      "lastUpdated": "2026-03-27T01:19:09Z"
+      "stars": 4375,
+      "lastUpdated": "2026-03-27T20:50:15Z"
     },
     "tags": [
       "official"
@@ -4321,8 +4321,8 @@
     "repository": {
       "url": "https://github.com/firecrawl/firecrawl-mcp-server",
       "source": "github",
-      "stars": 5874,
-      "lastUpdated": "2026-03-26T22:19:46Z"
+      "stars": 5882,
+      "lastUpdated": "2026-03-28T02:16:28Z"
     },
     "tags": [
       "official"
@@ -4572,8 +4572,8 @@
     "repository": {
       "url": "https://github.com/github/github-mcp-server",
       "source": "github",
-      "stars": 28302,
-      "lastUpdated": "2026-03-27T02:47:58Z"
+      "stars": 28338,
+      "lastUpdated": "2026-03-28T02:16:32Z"
     },
     "tags": [
       "official"
@@ -4592,8 +4592,8 @@
     "repository": {
       "url": "https://github.com/gitkraken/gk-cli?tab=readme-ov-file#mcp-server",
       "source": "github",
-      "stars": 386,
-      "lastUpdated": "2026-03-26T17:22:53Z"
+      "stars": 387,
+      "lastUpdated": "2026-03-27T14:57:18Z"
     },
     "tags": [
       "official"
@@ -4697,8 +4697,8 @@
     "repository": {
       "url": "https://github.com/GoogleCloudPlatform/cloud-run-mcp",
       "source": "github",
-      "stars": 571,
-      "lastUpdated": "2026-03-26T18:11:53Z"
+      "stars": 576,
+      "lastUpdated": "2026-03-27T23:59:12Z"
     },
     "tags": [
       "official"
@@ -4768,8 +4768,8 @@
     "repository": {
       "url": "https://github.com/grafana/mcp-grafana",
       "source": "github",
-      "stars": 2651,
-      "lastUpdated": "2026-03-27T02:05:29Z"
+      "stars": 2661,
+      "lastUpdated": "2026-03-27T23:03:04Z"
     },
     "tags": [
       "official"
@@ -4828,8 +4828,8 @@
     "repository": {
       "url": "https://github.com/graphlit/graphlit-mcp-server",
       "source": "github",
-      "stars": 373,
-      "lastUpdated": "2026-03-17T03:41:59Z"
+      "stars": 374,
+      "lastUpdated": "2026-03-27T23:39:41Z"
     },
     "tags": [
       "official"
@@ -5343,8 +5343,8 @@
     "repository": {
       "url": "https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server",
       "source": "github",
-      "stars": 10342,
-      "lastUpdated": "2026-03-27T03:13:05Z"
+      "stars": 10346,
+      "lastUpdated": "2026-03-27T19:56:06Z"
     },
     "tags": [
       "official"
@@ -5613,7 +5613,7 @@
       "url": "https://github.com/kagisearch/kagimcp",
       "source": "github",
       "stars": 338,
-      "lastUpdated": "2026-03-25T10:03:19Z"
+      "lastUpdated": "2026-03-27T19:03:45Z"
     },
     "tags": [
       "official"
@@ -5704,7 +5704,7 @@
       "url": "https://github.com/keboola/keboola-mcp-server",
       "source": "github",
       "stars": 83,
-      "lastUpdated": "2026-03-25T15:18:01Z"
+      "lastUpdated": "2026-03-27T09:21:51Z"
     },
     "tags": [
       "official"
@@ -5791,8 +5791,8 @@
     "repository": {
       "url": "https://github.com/Kiln-AI/Kiln",
       "source": "github",
-      "stars": 4724,
-      "lastUpdated": "2026-03-26T07:08:29Z"
+      "stars": 4725,
+      "lastUpdated": "2026-03-27T18:56:19Z"
     },
     "tags": [
       "official"
@@ -5807,7 +5807,7 @@
       "url": "https://github.com/kintone/mcp-server",
       "source": "github",
       "stars": 40,
-      "lastUpdated": "2026-03-26T22:14:13Z"
+      "lastUpdated": "2026-03-27T21:33:54Z"
     },
     "tags": [
       "official"
@@ -5884,8 +5884,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/report_generation",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "official"
@@ -6177,7 +6177,7 @@
       "url": "https://github.com/translated/lara-mcp",
       "source": "github",
       "stars": 79,
-      "lastUpdated": "2026-03-20T11:51:26Z"
+      "lastUpdated": "2026-03-27T09:57:26Z"
     },
     "tags": [
       "official"
@@ -6261,8 +6261,8 @@
     "repository": {
       "url": "https://github.com/line/line-bot-mcp-server",
       "source": "github",
-      "stars": 543,
-      "lastUpdated": "2026-03-27T00:41:59Z"
+      "stars": 549,
+      "lastUpdated": "2026-03-27T13:31:21Z"
     },
     "tags": [
       "official"
@@ -6301,8 +6301,8 @@
     "repository": {
       "url": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
       "source": "github",
-      "stars": 5398,
-      "lastUpdated": "2026-03-26T17:59:03Z"
+      "stars": 5403,
+      "lastUpdated": "2026-03-28T02:11:01Z"
     },
     "tags": [
       "official"
@@ -6511,8 +6511,8 @@
     "repository": {
       "url": "https://github.com/mailgun/mailgun-mcp-server",
       "source": "github",
-      "stars": 50,
-      "lastUpdated": "2026-03-26T08:48:42Z"
+      "stars": 51,
+      "lastUpdated": "2026-03-27T17:43:02Z"
     },
     "tags": [
       "official"
@@ -6639,8 +6639,8 @@
     "repository": {
       "url": "https://github.com/iOSDevSK/mcp-for-woocommerce",
       "source": "github",
-      "stars": 12,
-      "lastUpdated": "2026-03-08T17:41:30Z"
+      "stars": 13,
+      "lastUpdated": "2026-03-27T03:24:45Z"
     },
     "tags": [
       "official"
@@ -6654,8 +6654,8 @@
     "repository": {
       "url": "https://github.com/googleapis/genai-toolbox",
       "source": "github",
-      "stars": 13545,
-      "lastUpdated": "2026-03-27T02:59:30Z"
+      "stars": 13560,
+      "lastUpdated": "2026-03-28T01:21:25Z"
     },
     "tags": [
       "official"
@@ -6870,8 +6870,8 @@
     "repository": {
       "url": "https://github.com/microsoftdocs/mcp",
       "source": "github",
-      "stars": 1498,
-      "lastUpdated": "2026-03-27T01:08:41Z"
+      "stars": 1501,
+      "lastUpdated": "2026-03-27T16:06:02Z"
     },
     "tags": [
       "official"
@@ -7033,8 +7033,8 @@
     "repository": {
       "url": "https://github.com/mongodb-js/mongodb-mcp-server",
       "source": "github",
-      "stars": 975,
-      "lastUpdated": "2026-03-26T22:30:44Z"
+      "stars": 976,
+      "lastUpdated": "2026-03-27T12:12:33Z"
     },
     "tags": [
       "official"
@@ -7198,8 +7198,8 @@
     "repository": {
       "url": "https://github.com/neo4j-contrib/mcp-neo4j/",
       "source": "github",
-      "stars": 925,
-      "lastUpdated": "2026-03-25T00:51:27Z"
+      "stars": 926,
+      "lastUpdated": "2026-03-27T18:06:56Z"
     },
     "tags": [
       "official"
@@ -7302,8 +7302,8 @@
     "repository": {
       "url": "https://github.com/netdata/netdata/blob/master/src/web/mcp/README.md",
       "source": "github",
-      "stars": 78220,
-      "lastUpdated": "2026-03-27T02:26:58Z"
+      "stars": 78239,
+      "lastUpdated": "2026-03-28T02:38:46Z"
     },
     "tags": [
       "official"
@@ -7357,8 +7357,8 @@
     "repository": {
       "url": "https://github.com/noditlabs/nodit-mcp-server",
       "source": "github",
-      "stars": 18,
-      "lastUpdated": "2026-02-25T05:24:59Z"
+      "stars": 19,
+      "lastUpdated": "2026-03-27T14:58:26Z"
     },
     "tags": [
       "official"
@@ -7422,8 +7422,8 @@
     "repository": {
       "url": "https://github.com/makenotion/notion-mcp-server#readme",
       "source": "github",
-      "stars": 4111,
-      "lastUpdated": "2026-03-27T01:11:21Z"
+      "stars": 4114,
+      "lastUpdated": "2026-03-27T23:11:49Z"
     },
     "tags": [
       "official"
@@ -7465,7 +7465,7 @@
       "url": "https://github.com/nrwl/nx-console/blob/master/apps/nx-mcp",
       "source": "github",
       "stars": 1395,
-      "lastUpdated": "2026-03-22T12:46:24Z"
+      "lastUpdated": "2026-03-27T10:19:16Z"
     },
     "tags": [
       "official"
@@ -7815,8 +7815,8 @@
     "repository": {
       "url": "https://github.com/oxylabs/oxylabs-mcp",
       "source": "github",
-      "stars": 87,
-      "lastUpdated": "2026-03-24T05:02:13Z"
+      "stars": 88,
+      "lastUpdated": "2026-03-27T17:19:55Z"
     },
     "tags": [
       "official"
@@ -7876,7 +7876,7 @@
       "url": "https://github.com/PagerDuty/pagerduty-mcp-server",
       "source": "github",
       "stars": 57,
-      "lastUpdated": "2026-03-26T21:38:16Z"
+      "lastUpdated": "2026-03-27T16:22:32Z"
     },
     "tags": [
       "official"
@@ -7919,7 +7919,7 @@
       "url": "https://github.com/paiml/paiml-mcp-agent-toolkit",
       "source": "github",
       "stars": 143,
-      "lastUpdated": "2026-03-27T02:39:01Z"
+      "lastUpdated": "2026-03-27T18:25:03Z"
     },
     "tags": [
       "official"
@@ -8077,8 +8077,8 @@
     "repository": {
       "url": "https://github.com/ppl-ai/modelcontextprotocol",
       "source": "github",
-      "stars": 2050,
-      "lastUpdated": "2026-03-26T17:48:27Z"
+      "stars": 2052,
+      "lastUpdated": "2026-03-27T18:53:44Z"
     },
     "tags": [
       "official"
@@ -8231,8 +8231,8 @@
     "repository": {
       "url": "https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
       "source": "github",
-      "stars": 11207,
-      "lastUpdated": "2026-03-27T00:33:02Z"
+      "stars": 11209,
+      "lastUpdated": "2026-03-27T22:58:16Z"
     },
     "tags": [
       "official"
@@ -8299,8 +8299,8 @@
     "repository": {
       "url": "https://github.com/microsoft/playwright-mcp",
       "source": "github",
-      "stars": 29796,
-      "lastUpdated": "2026-03-27T03:05:59Z"
+      "stars": 29851,
+      "lastUpdated": "2026-03-28T03:02:29Z"
     },
     "tags": [
       "official"
@@ -8482,8 +8482,8 @@
     "repository": {
       "url": "https://github.com/postmanlabs/postman-api-mcp",
       "source": "github",
-      "stars": 194,
-      "lastUpdated": "2026-03-27T00:06:07Z"
+      "stars": 197,
+      "lastUpdated": "2026-03-28T00:50:33Z"
     },
     "tags": [
       "official"
@@ -8759,8 +8759,8 @@
     "repository": {
       "url": "https://github.com/qdrant/mcp-server-qdrant/",
       "source": "github",
-      "stars": 1302,
-      "lastUpdated": "2026-03-26T08:38:28Z"
+      "stars": 1305,
+      "lastUpdated": "2026-03-27T15:18:49Z"
     },
     "tags": [
       "official"
@@ -9054,8 +9054,8 @@
     "repository": {
       "url": "https://github.com/redis/mcp-redis/",
       "source": "github",
-      "stars": 462,
-      "lastUpdated": "2026-03-26T09:40:29Z"
+      "stars": 465,
+      "lastUpdated": "2026-03-27T23:31:44Z"
     },
     "tags": [
       "official"
@@ -9117,7 +9117,7 @@
       "url": "https://github.com/reflagcom/javascript/tree/main/packages/cli#model-context-protocol",
       "source": "github",
       "stars": 22,
-      "lastUpdated": "2026-03-27T01:26:17Z"
+      "lastUpdated": "2026-03-27T20:06:34Z"
     },
     "tags": [
       "official"
@@ -9271,8 +9271,8 @@
     "repository": {
       "url": "https://github.com/Roblox/studio-rust-mcp-server",
       "source": "github",
-      "stars": 437,
-      "lastUpdated": "2026-03-26T04:50:13Z"
+      "stars": 441,
+      "lastUpdated": "2026-03-27T17:24:49Z"
     },
     "tags": [
       "official"
@@ -9392,7 +9392,7 @@
       "url": "https://github.com/safedep/vet/blob/main/docs/mcp.md",
       "source": "github",
       "stars": 984,
-      "lastUpdated": "2026-03-26T17:37:56Z"
+      "lastUpdated": "2026-03-27T18:40:32Z"
     },
     "tags": [
       "official"
@@ -9407,7 +9407,7 @@
       "url": "https://github.com/chaitin/SafeLine/tree/main/mcp_server",
       "source": "github",
       "stars": 20950,
-      "lastUpdated": "2026-03-27T02:19:04Z"
+      "lastUpdated": "2026-03-27T21:16:58Z"
     },
     "tags": [
       "official"
@@ -9517,7 +9517,7 @@
       "url": "https://github.com/searchunify/su-mcp/",
       "source": "github",
       "stars": 3,
-      "lastUpdated": "2026-03-26T16:19:07Z"
+      "lastUpdated": "2026-03-27T06:23:14Z"
     },
     "tags": [
       "official"
@@ -9572,8 +9572,8 @@
     "repository": {
       "url": "https://github.com/semgrep/semgrep/blob/develop/cli/src/semgrep/mcp/README.md",
       "source": "github",
-      "stars": 14570,
-      "lastUpdated": "2026-03-27T02:15:07Z"
+      "stars": 14576,
+      "lastUpdated": "2026-03-27T18:15:11Z"
     },
     "tags": [
       "official"
@@ -9712,7 +9712,7 @@
       "url": "https://github.com/SmartBear/smartbear-mcp",
       "source": "github",
       "stars": 27,
-      "lastUpdated": "2026-03-26T16:59:54Z"
+      "lastUpdated": "2026-03-27T07:56:59Z"
     },
     "tags": [
       "official"
@@ -9769,7 +9769,7 @@
       "url": "https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md",
       "source": "github",
       "stars": 77,
-      "lastUpdated": "2026-03-25T14:45:22Z"
+      "lastUpdated": "2026-03-27T14:55:17Z"
     },
     "tags": [
       "official"
@@ -9783,8 +9783,8 @@
     "repository": {
       "url": "https://github.com/SonarSource/sonarqube-mcp-server",
       "source": "github",
-      "stars": 443,
-      "lastUpdated": "2026-03-26T17:14:17Z"
+      "stars": 448,
+      "lastUpdated": "2026-03-28T02:46:56Z"
     },
     "tags": [
       "official"
@@ -9963,8 +9963,8 @@
     "repository": {
       "url": "https://github.com/storybookjs/addon-mcp",
       "source": "github",
-      "stars": 219,
-      "lastUpdated": "2026-03-27T03:02:07Z"
+      "stars": 221,
+      "lastUpdated": "2026-03-27T13:44:41Z"
     },
     "tags": [
       "official"
@@ -9991,8 +9991,8 @@
     "repository": {
       "url": "https://github.com/stripe/agent-toolkit",
       "source": "github",
-      "stars": 1408,
-      "lastUpdated": "2026-03-27T01:28:32Z"
+      "stars": 1410,
+      "lastUpdated": "2026-03-27T16:36:32Z"
     },
     "tags": [
       "official"
@@ -10019,8 +10019,8 @@
     "repository": {
       "url": "https://github.com/cdnsteve/sugar",
       "source": "github",
-      "stars": 59,
-      "lastUpdated": "2026-03-26T09:35:38Z"
+      "stars": 61,
+      "lastUpdated": "2026-03-28T00:09:05Z"
     },
     "tags": [
       "official"
@@ -10060,8 +10060,8 @@
     "repository": {
       "url": "https://github.com/supabase-community/supabase-mcp",
       "source": "github",
-      "stars": 2560,
-      "lastUpdated": "2026-03-26T22:46:30Z"
+      "stars": 2561,
+      "lastUpdated": "2026-03-27T16:17:57Z"
     },
     "tags": [
       "official"
@@ -10080,8 +10080,8 @@
     "repository": {
       "url": "https://github.com/supadata-ai/mcp",
       "source": "github",
-      "stars": 36,
-      "lastUpdated": "2026-03-25T15:17:52Z"
+      "stars": 38,
+      "lastUpdated": "2026-03-28T01:58:04Z"
     },
     "tags": [
       "official"
@@ -10110,8 +10110,8 @@
     "repository": {
       "url": "https://github.com/tavily-ai/tavily-mcp",
       "source": "github",
-      "stars": 1537,
-      "lastUpdated": "2026-03-27T01:48:49Z"
+      "stars": 1549,
+      "lastUpdated": "2026-03-27T22:07:52Z"
     },
     "tags": [
       "official"
@@ -10181,8 +10181,8 @@
     "repository": {
       "url": "https://github.com/Teradata/teradata-mcp-server",
       "source": "github",
-      "stars": 42,
-      "lastUpdated": "2026-03-24T16:29:59Z"
+      "stars": 43,
+      "lastUpdated": "2026-03-27T14:51:50Z"
     },
     "tags": [
       "official"
@@ -10196,8 +10196,8 @@
     "repository": {
       "url": "https://github.com/hashicorp/terraform-mcp-server",
       "source": "github",
-      "stars": 1289,
-      "lastUpdated": "2026-03-26T17:53:49Z"
+      "stars": 1294,
+      "lastUpdated": "2026-03-27T19:51:51Z"
     },
     "tags": [
       "official"
@@ -10360,7 +10360,7 @@
       "url": "https://github.com/thoughtspot/mcp-server",
       "source": "github",
       "stars": 30,
-      "lastUpdated": "2026-03-26T00:22:44Z"
+      "lastUpdated": "2026-03-28T01:06:05Z"
     },
     "tags": [
       "official"
@@ -10384,7 +10384,7 @@
       "url": "https://github.com/msgbyte/tianji/tree/master/apps/mcp-server",
       "source": "github",
       "stars": 3026,
-      "lastUpdated": "2026-03-26T21:27:15Z"
+      "lastUpdated": "2026-03-27T14:41:15Z"
     },
     "tags": [
       "official"
@@ -10455,8 +10455,8 @@
     "repository": {
       "url": "https://github.com/doist/todoist-ai",
       "source": "github",
-      "stars": 402,
-      "lastUpdated": "2026-03-27T02:33:20Z"
+      "stars": 403,
+      "lastUpdated": "2026-03-27T13:44:37Z"
     },
     "tags": [
       "official"
@@ -10735,7 +10735,7 @@
       "url": "https://github.com/marcushellberg/vaadin-documentation-services",
       "source": "github",
       "stars": 13,
-      "lastUpdated": "2026-03-26T07:52:56Z"
+      "lastUpdated": "2026-03-27T17:11:47Z"
     },
     "tags": [
       "official"
@@ -10918,8 +10918,8 @@
     "repository": {
       "url": "https://github.com/VictoriaMetrics-Community/mcp-victorialogs",
       "source": "github",
-      "stars": 57,
-      "lastUpdated": "2026-03-20T20:10:49Z"
+      "stars": 58,
+      "lastUpdated": "2026-03-27T23:38:20Z"
     },
     "tags": [
       "official"
@@ -10943,8 +10943,8 @@
     "repository": {
       "url": "https://github.com/VictoriaMetrics-Community/mcp-victoriametrics",
       "source": "github",
-      "stars": 133,
-      "lastUpdated": "2026-03-27T01:25:30Z"
+      "stars": 134,
+      "lastUpdated": "2026-03-27T23:38:06Z"
     },
     "tags": [
       "official"
@@ -11009,8 +11009,8 @@
     "repository": {
       "url": "https://github.com/landing-ai/vision-agent-mcp",
       "source": "github",
-      "stars": 27,
-      "lastUpdated": "2026-03-06T01:29:51Z"
+      "stars": 28,
+      "lastUpdated": "2026-03-27T19:31:52Z"
     },
     "tags": [
       "official"
@@ -11076,8 +11076,8 @@
     "repository": {
       "url": "https://github.com/waystation-ai/mcp",
       "source": "github",
-      "stars": 44,
-      "lastUpdated": "2026-03-25T14:15:59Z"
+      "stars": 45,
+      "lastUpdated": "2026-03-27T18:16:05Z"
     },
     "tags": [
       "official"
@@ -11218,8 +11218,8 @@
     "repository": {
       "url": "https://github.com/XeroAPI/xero-mcp-server",
       "source": "github",
-      "stars": 219,
-      "lastUpdated": "2026-03-26T01:33:56Z"
+      "stars": 220,
+      "lastUpdated": "2026-03-27T19:14:35Z"
     },
     "tags": [
       "official"
@@ -11247,7 +11247,7 @@
       "url": "https://github.com/ydb-platform/ydb-mcp",
       "source": "github",
       "stars": 25,
-      "lastUpdated": "2026-03-26T14:23:20Z"
+      "lastUpdated": "2026-03-27T11:01:42Z"
     },
     "tags": [
       "official"
@@ -11523,7 +11523,7 @@
       "url": "https://github.com/GongRzhe/A2A-MCP-Server",
       "source": "github",
       "stars": 144,
-      "lastUpdated": "2026-03-26T04:42:13Z"
+      "lastUpdated": "2026-03-27T16:24:19Z"
     },
     "tags": [
       "community"
@@ -11560,8 +11560,8 @@
     "repository": {
       "url": "https://github.com/ahujasid/ableton-mcp",
       "source": "github",
-      "stars": 2352,
-      "lastUpdated": "2026-03-26T22:05:19Z"
+      "stars": 2356,
+      "lastUpdated": "2026-03-27T23:43:59Z"
     },
     "tags": [
       "community"
@@ -11656,7 +11656,7 @@
       "url": "https://github.com/tosin2013/mcp-adr-analysis-server",
       "source": "github",
       "stars": 23,
-      "lastUpdated": "2026-03-24T10:31:24Z"
+      "lastUpdated": "2026-03-28T00:40:39Z"
     },
     "tags": [
       "community"
@@ -11843,8 +11843,8 @@
     "repository": {
       "url": "https://github.com/openbnb-org/mcp-server-airbnb",
       "source": "github",
-      "stars": 405,
-      "lastUpdated": "2026-03-26T17:33:16Z"
+      "stars": 406,
+      "lastUpdated": "2026-03-27T18:22:40Z"
     },
     "tags": [
       "community"
@@ -11858,8 +11858,8 @@
     "repository": {
       "url": "https://github.com/yangkyeongmo/mcp-server-apache-airflow",
       "source": "github",
-      "stars": 151,
-      "lastUpdated": "2026-03-26T20:51:03Z"
+      "stars": 150,
+      "lastUpdated": "2026-03-27T17:47:23Z"
     },
     "tags": [
       "community"
@@ -12065,8 +12065,8 @@
     "repository": {
       "url": "https://github.com/antvis/mcp-server-chart",
       "source": "github",
-      "stars": 3883,
-      "lastUpdated": "2026-03-27T02:11:25Z"
+      "stars": 3891,
+      "lastUpdated": "2026-03-28T03:09:20Z"
     },
     "tags": [
       "community"
@@ -12222,7 +12222,7 @@
       "url": "https://github.com/vgnshiyer/apple-books-mcp",
       "source": "github",
       "stars": 43,
-      "lastUpdated": "2026-03-22T20:07:42Z"
+      "lastUpdated": "2026-03-27T03:53:50Z"
     },
     "tags": [
       "community"
@@ -12244,8 +12244,8 @@
     "repository": {
       "url": "https://github.com/Omar-v2/mcp-ical",
       "source": "github",
-      "stars": 286,
-      "lastUpdated": "2026-03-26T13:18:18Z"
+      "stars": 287,
+      "lastUpdated": "2026-03-27T04:45:43Z"
     },
     "tags": [
       "community"
@@ -12259,8 +12259,8 @@
     "repository": {
       "url": "https://github.com/kimsungwhee/apple-docs-mcp",
       "source": "github",
-      "stars": 1173,
-      "lastUpdated": "2026-03-26T16:27:20Z"
+      "stars": 1176,
+      "lastUpdated": "2026-03-27T19:46:22Z"
     },
     "tags": [
       "community"
@@ -12395,8 +12395,8 @@
     "repository": {
       "url": "https://github.com/archestra-ai/archestra",
       "source": "github",
-      "stars": 3539,
-      "lastUpdated": "2026-03-27T00:38:26Z"
+      "stars": 3536,
+      "lastUpdated": "2026-03-28T02:13:01Z"
     },
     "tags": [
       "community"
@@ -12441,7 +12441,7 @@
       "url": "https://github.com/takashiishida/arxiv-latex-mcp",
       "source": "github",
       "stars": 114,
-      "lastUpdated": "2026-03-26T05:54:06Z"
+      "lastUpdated": "2026-03-27T03:34:20Z"
     },
     "tags": [
       "community"
@@ -12488,8 +12488,8 @@
     "repository": {
       "url": "https://github.com/sooperset/mcp-atlassian",
       "source": "github",
-      "stars": 4742,
-      "lastUpdated": "2026-03-27T01:49:24Z"
+      "stars": 4750,
+      "lastUpdated": "2026-03-27T19:02:34Z"
     },
     "tags": [
       "community"
@@ -13028,8 +13028,8 @@
     "repository": {
       "url": "https://github.com/basicmachines-co/basic-memory",
       "source": "github",
-      "stars": 2708,
-      "lastUpdated": "2026-03-26T22:18:00Z"
+      "stars": 2712,
+      "lastUpdated": "2026-03-27T16:52:11Z"
     },
     "tags": [
       "community"
@@ -13128,8 +13128,8 @@
     "repository": {
       "url": "https://github.com/ergut/mcp-bigquery-server",
       "source": "github",
-      "stars": 134,
-      "lastUpdated": "2026-03-17T08:46:49Z"
+      "stars": 135,
+      "lastUpdated": "2026-03-27T14:36:41Z"
     },
     "tags": [
       "community"
@@ -13336,8 +13336,8 @@
     "repository": {
       "url": "https://github.com/ahujasid/blender-mcp",
       "source": "github",
-      "stars": 18067,
-      "lastUpdated": "2026-03-27T03:11:52Z"
+      "stars": 18114,
+      "lastUpdated": "2026-03-28T03:06:46Z"
     },
     "tags": [
       "community"
@@ -13550,8 +13550,8 @@
     "repository": {
       "url": "https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser",
       "source": "github",
-      "stars": 29116,
-      "lastUpdated": "2026-03-27T02:57:29Z"
+      "stars": 29131,
+      "lastUpdated": "2026-03-28T02:33:44Z"
     },
     "tags": [
       "community"
@@ -13566,7 +13566,7 @@
       "url": "https://github.com/co-browser/browser-use-mcp-server",
       "source": "github",
       "stars": 813,
-      "lastUpdated": "2026-03-24T06:31:39Z"
+      "lastUpdated": "2026-03-28T00:07:53Z"
     },
     "tags": [
       "community"
@@ -13680,8 +13680,8 @@
     "repository": {
       "url": "https://github.com/chrisgleissner/c64bridge",
       "source": "github",
-      "stars": 16,
-      "lastUpdated": "2026-03-26T23:13:20Z"
+      "stars": 18,
+      "lastUpdated": "2026-03-27T19:39:56Z"
     },
     "tags": [
       "community"
@@ -13704,8 +13704,8 @@
     "repository": {
       "url": "https://github.com/daobataotie/CAD-MCP#",
       "source": "github",
-      "stars": 282,
-      "lastUpdated": "2026-03-26T02:47:58Z"
+      "stars": 283,
+      "lastUpdated": "2026-03-27T08:34:40Z"
     },
     "tags": [
       "community"
@@ -13801,7 +13801,7 @@
       "url": "https://github.com/jyjune/mcp_vms",
       "source": "github",
       "stars": 11,
-      "lastUpdated": "2026-03-10T08:18:12Z"
+      "lastUpdated": "2026-03-27T04:22:02Z"
     },
     "tags": [
       "community"
@@ -14167,8 +14167,8 @@
     "repository": {
       "url": "https://github.com/TaazKareem/clickup-mcp-server",
       "source": "github",
-      "stars": 25,
-      "lastUpdated": "2026-03-26T07:40:35Z"
+      "stars": 26,
+      "lastUpdated": "2026-03-28T02:24:22Z"
     },
     "tags": [
       "community"
@@ -14373,8 +14373,8 @@
     "repository": {
       "url": "https://github.com/topoteretes/cognee/tree/main/cognee-mcp",
       "source": "github",
-      "stars": 14662,
-      "lastUpdated": "2026-03-27T02:49:30Z"
+      "stars": 14703,
+      "lastUpdated": "2026-03-28T03:06:55Z"
     },
     "tags": [
       "community"
@@ -14482,8 +14482,8 @@
     "repository": {
       "url": "https://github.com/AB498/computer-control-mcp",
       "source": "github",
-      "stars": 127,
-      "lastUpdated": "2026-03-22T02:24:30Z"
+      "stars": 131,
+      "lastUpdated": "2026-03-28T00:45:07Z"
     },
     "tags": [
       "community"
@@ -14537,8 +14537,8 @@
     "repository": {
       "url": "https://github.com/domdomegg/computer-use-mcp",
       "source": "github",
-      "stars": 165,
-      "lastUpdated": "2026-03-27T03:08:13Z"
+      "stars": 170,
+      "lastUpdated": "2026-03-28T00:10:39Z"
     },
     "tags": [
       "community"
@@ -14875,8 +14875,8 @@
     "repository": {
       "url": "https://github.com/kukapay/crypto-indicators-mcp",
       "source": "github",
-      "stars": 114,
-      "lastUpdated": "2026-03-23T14:09:59Z"
+      "stars": 115,
+      "lastUpdated": "2026-03-27T03:37:30Z"
     },
     "tags": [
       "community"
@@ -15064,8 +15064,8 @@
     "repository": {
       "url": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-dg-cli",
       "source": "github",
-      "stars": 15153,
-      "lastUpdated": "2026-03-27T00:55:58Z"
+      "stars": 15159,
+      "lastUpdated": "2026-03-27T21:00:31Z"
     },
     "tags": [
       "community"
@@ -15280,7 +15280,7 @@
       "url": "https://github.com/vignaesh01/DataverseDevToolsMcpServer",
       "source": "github",
       "stars": 2,
-      "lastUpdated": "2025-12-17T08:35:37Z"
+      "lastUpdated": "2026-03-27T18:06:04Z"
     },
     "tags": [
       "community"
@@ -15333,8 +15333,8 @@
     "repository": {
       "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
       "source": "github",
-      "stars": 721,
-      "lastUpdated": "2026-03-26T20:07:54Z"
+      "stars": 728,
+      "lastUpdated": "2026-03-28T02:25:06Z"
     },
     "tags": [
       "community"
@@ -15356,8 +15356,8 @@
     "repository": {
       "url": "https://github.com/bytebase/dbhub/",
       "source": "github",
-      "stars": 2422,
-      "lastUpdated": "2026-03-27T03:01:48Z"
+      "stars": 2431,
+      "lastUpdated": "2026-03-27T22:40:27Z"
     },
     "tags": [
       "community"
@@ -15407,8 +15407,8 @@
     "repository": {
       "url": "https://github.com/DMontgomery40/deepseek-mcp-server",
       "source": "github",
-      "stars": 308,
-      "lastUpdated": "2026-03-24T07:00:21Z"
+      "stars": 309,
+      "lastUpdated": "2026-03-28T02:15:38Z"
     },
     "tags": [
       "community"
@@ -15591,8 +15591,8 @@
     "repository": {
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "source": "github",
-      "stars": 5778,
-      "lastUpdated": "2026-03-27T02:57:00Z"
+      "stars": 5789,
+      "lastUpdated": "2026-03-28T02:15:44Z"
     },
     "tags": [
       "community"
@@ -15655,7 +15655,7 @@
       "url": "https://github.com/vfarcic/dot-ai",
       "source": "github",
       "stars": 308,
-      "lastUpdated": "2026-03-25T18:09:57Z"
+      "lastUpdated": "2026-03-27T15:10:32Z"
     },
     "tags": [
       "community"
@@ -15798,7 +15798,7 @@
       "url": "https://github.com/v-3/discordmcp",
       "source": "github",
       "stars": 190,
-      "lastUpdated": "2026-03-26T04:43:53Z"
+      "lastUpdated": "2026-03-27T18:00:32Z"
     },
     "tags": [
       "community"
@@ -15823,8 +15823,8 @@
     "repository": {
       "url": "https://github.com/SaseQ/discord-mcp",
       "source": "github",
-      "stars": 223,
-      "lastUpdated": "2026-03-24T19:02:19Z"
+      "stars": 224,
+      "lastUpdated": "2026-03-27T05:00:16Z"
     },
     "tags": [
       "community"
@@ -15853,8 +15853,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/discord",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "community"
@@ -15940,8 +15940,8 @@
     "repository": {
       "url": "https://github.com/ckreiling/mcp-server-docker",
       "source": "github",
-      "stars": 691,
-      "lastUpdated": "2026-03-26T08:52:15Z"
+      "stars": 692,
+      "lastUpdated": "2026-03-27T09:37:17Z"
     },
     "tags": [
       "community"
@@ -16046,7 +16046,7 @@
       "url": "https://github.com/dodopayments/dodopayments-node/tree/main/packages/mcp-server",
       "source": "github",
       "stars": 45,
-      "lastUpdated": "2026-03-25T12:06:04Z"
+      "lastUpdated": "2026-03-27T09:03:46Z"
     },
     "tags": [
       "community"
@@ -16250,8 +16250,8 @@
     "repository": {
       "url": "https://github.com/onebirdrocks/ebook-mcp",
       "source": "github",
-      "stars": 350,
-      "lastUpdated": "2026-03-15T14:40:58Z"
+      "stars": 351,
+      "lastUpdated": "2026-03-27T14:56:26Z"
     },
     "tags": [
       "community"
@@ -16532,8 +16532,8 @@
     "repository": {
       "url": "https://github.com/mamertofabian/mcp-everything-search",
       "source": "github",
-      "stars": 319,
-      "lastUpdated": "2026-03-24T07:25:56Z"
+      "stars": 320,
+      "lastUpdated": "2026-03-27T09:37:21Z"
     },
     "tags": [
       "community"
@@ -16582,8 +16582,8 @@
     "repository": {
       "url": "https://github.com/haris-musa/excel-mcp-server",
       "source": "github",
-      "stars": 3588,
-      "lastUpdated": "2026-03-26T23:55:48Z"
+      "stars": 3592,
+      "lastUpdated": "2026-03-27T17:41:32Z"
     },
     "tags": [
       "community"
@@ -16708,8 +16708,8 @@
     "repository": {
       "url": "https://github.com/Microsoft/fabric-rti-mcp",
       "source": "github",
-      "stars": 102,
-      "lastUpdated": "2026-03-26T05:50:55Z"
+      "stars": 103,
+      "lastUpdated": "2026-03-27T07:22:51Z"
     },
     "tags": [
       "community"
@@ -16962,8 +16962,8 @@
     "repository": {
       "url": "https://github.com/stefanoamorelli/fred-mcp-server",
       "source": "github",
-      "stars": 73,
-      "lastUpdated": "2026-03-26T15:42:42Z"
+      "stars": 74,
+      "lastUpdated": "2026-03-27T12:18:40Z"
     },
     "tags": [
       "community"
@@ -16991,8 +16991,8 @@
     "repository": {
       "url": "https://github.com/zcaceres/fetch-mcp",
       "source": "github",
-      "stars": 730,
-      "lastUpdated": "2026-03-25T14:59:50Z"
+      "stars": 732,
+      "lastUpdated": "2026-03-27T12:08:47Z"
     },
     "tags": [
       "community"
@@ -17084,8 +17084,8 @@
     "repository": {
       "url": "https://github.com/GLips/Figma-Context-MCP",
       "source": "github",
-      "stars": 13986,
-      "lastUpdated": "2026-03-27T03:05:26Z"
+      "stars": 14008,
+      "lastUpdated": "2026-03-28T00:31:43Z"
     },
     "tags": [
       "community"
@@ -17337,8 +17337,8 @@
     "repository": {
       "url": "https://github.com/modesty/fluent-mcp",
       "source": "github",
-      "stars": 21,
-      "lastUpdated": "2026-03-26T08:34:57Z"
+      "stars": 22,
+      "lastUpdated": "2026-03-27T09:52:51Z"
     },
     "tags": [
       "community"
@@ -17482,8 +17482,8 @@
     "repository": {
       "url": "https://github.com/kukapay/freqtrade-mcp",
       "source": "github",
-      "stars": 108,
-      "lastUpdated": "2026-03-26T11:23:50Z"
+      "stars": 109,
+      "lastUpdated": "2026-03-27T18:50:44Z"
     },
     "tags": [
       "community"
@@ -17616,8 +17616,8 @@
     "repository": {
       "url": "https://github.com/MFYDev/ghost-mcp",
       "source": "github",
-      "stars": 159,
-      "lastUpdated": "2026-03-26T08:30:34Z"
+      "stars": 160,
+      "lastUpdated": "2026-03-27T15:20:20Z"
     },
     "tags": [
       "community"
@@ -17842,8 +17842,8 @@
     "repository": {
       "url": "https://github.com/idosal/git-mcp",
       "source": "github",
-      "stars": 7837,
-      "lastUpdated": "2026-03-27T01:24:08Z"
+      "stars": 7843,
+      "lastUpdated": "2026-03-27T23:27:39Z"
     },
     "tags": [
       "community"
@@ -17881,8 +17881,8 @@
     "repository": {
       "url": "https://github.com/GongRzhe/Gmail-MCP-Server",
       "source": "github",
-      "stars": 1071,
-      "lastUpdated": "2026-03-26T15:18:50Z"
+      "stars": 1074,
+      "lastUpdated": "2026-03-27T17:41:49Z"
     },
     "tags": [
       "community"
@@ -18030,8 +18030,8 @@
     "repository": {
       "url": "https://github.com/Coding-Solo/godot-mcp",
       "source": "github",
-      "stars": 2658,
-      "lastUpdated": "2026-03-27T03:11:06Z"
+      "stars": 2678,
+      "lastUpdated": "2026-03-28T02:01:28Z"
     },
     "tags": [
       "community"
@@ -18114,7 +18114,7 @@
       "url": "https://github.com/gomarble-ai/google-ads-mcp-server",
       "source": "github",
       "stars": 110,
-      "lastUpdated": "2026-03-23T23:20:51Z"
+      "lastUpdated": "2026-03-27T14:02:06Z"
     },
     "tags": [
       "community"
@@ -18219,8 +18219,8 @@
     "repository": {
       "url": "https://github.com/nspady/google-calendar-mcp",
       "source": "github",
-      "stars": 1066,
-      "lastUpdated": "2026-03-27T02:27:22Z"
+      "stars": 1068,
+      "lastUpdated": "2026-03-27T19:28:59Z"
     },
     "tags": [
       "community"
@@ -18288,8 +18288,8 @@
     "repository": {
       "url": "https://github.com/xing5/mcp-google-sheets",
       "source": "github",
-      "stars": 769,
-      "lastUpdated": "2026-03-26T23:08:48Z"
+      "stars": 771,
+      "lastUpdated": "2026-03-27T21:57:49Z"
     },
     "tags": [
       "community"
@@ -18368,8 +18368,8 @@
     "repository": {
       "url": "https://github.com/taylorwilsdon/google_workspace_mcp",
       "source": "github",
-      "stars": 1935,
-      "lastUpdated": "2026-03-27T02:49:59Z"
+      "stars": 1944,
+      "lastUpdated": "2026-03-27T22:42:03Z"
     },
     "tags": [
       "community"
@@ -18841,8 +18841,8 @@
     "repository": {
       "url": "https://github.com/voska/hass-mcp",
       "source": "github",
-      "stars": 284,
-      "lastUpdated": "2026-03-26T04:44:57Z"
+      "stars": 285,
+      "lastUpdated": "2026-03-27T15:52:11Z"
     },
     "tags": [
       "community"
@@ -19058,8 +19058,8 @@
     "repository": {
       "url": "https://github.com/toolprint/hypertool-mcp",
       "source": "github",
-      "stars": 149,
-      "lastUpdated": "2026-03-21T17:10:22Z"
+      "stars": 150,
+      "lastUpdated": "2026-03-27T18:11:33Z"
     },
     "tags": [
       "community"
@@ -19263,8 +19263,8 @@
     "repository": {
       "url": "https://github.com/loopwork-ai/iMCP",
       "source": "github",
-      "stars": 1332,
-      "lastUpdated": "2026-03-26T21:06:03Z"
+      "stars": 1333,
+      "lastUpdated": "2026-03-27T10:34:10Z"
     },
     "tags": [
       "community"
@@ -19437,8 +19437,8 @@
     "repository": {
       "url": "https://github.com/raoulbia-ai/mcp-server-for-intercom",
       "source": "github",
-      "stars": 7,
-      "lastUpdated": "2026-03-10T06:56:37Z"
+      "stars": 8,
+      "lastUpdated": "2026-03-28T01:17:04Z"
     },
     "tags": [
       "community"
@@ -19544,8 +19544,8 @@
     "repository": {
       "url": "https://github.com/ferrislucas/iterm-mcp",
       "source": "github",
-      "stars": 535,
-      "lastUpdated": "2026-03-26T17:59:20Z"
+      "stars": 539,
+      "lastUpdated": "2026-03-28T01:51:14Z"
     },
     "tags": [
       "community"
@@ -19882,8 +19882,8 @@
     "repository": {
       "url": "https://github.com/datalayer/jupyter-mcp-server",
       "source": "github",
-      "stars": 961,
-      "lastUpdated": "2026-03-26T17:10:28Z"
+      "stars": 963,
+      "lastUpdated": "2026-03-27T18:06:47Z"
     },
     "tags": [
       "community"
@@ -19951,8 +19951,8 @@
     "repository": {
       "url": "https://github.com/tuannvm/kafka-mcp-server",
       "source": "github",
-      "stars": 46,
-      "lastUpdated": "2026-03-23T03:33:53Z"
+      "stars": 47,
+      "lastUpdated": "2026-03-27T14:36:06Z"
     },
     "tags": [
       "community"
@@ -20130,8 +20130,8 @@
     "repository": {
       "url": "https://github.com/TocharianOU/mcp-server-kibana.git",
       "source": "github",
-      "stars": 59,
-      "lastUpdated": "2026-03-20T10:15:09Z"
+      "stars": 60,
+      "lastUpdated": "2026-03-27T06:27:08Z"
     },
     "tags": [
       "community"
@@ -20391,8 +20391,8 @@
     "repository": {
       "url": "https://github.com/kubeflow/mcp-apache-spark-history-server",
       "source": "github",
-      "stars": 143,
-      "lastUpdated": "2026-03-27T00:06:58Z"
+      "stars": 144,
+      "lastUpdated": "2026-03-27T07:32:51Z"
     },
     "tags": [
       "community"
@@ -20406,8 +20406,8 @@
     "repository": {
       "url": "https://github.com/Flux159/mcp-server-kubernetes",
       "source": "github",
-      "stars": 1363,
-      "lastUpdated": "2026-03-26T17:10:42Z"
+      "stars": 1364,
+      "lastUpdated": "2026-03-27T18:15:28Z"
     },
     "tags": [
       "community"
@@ -20429,8 +20429,8 @@
     "repository": {
       "url": "https://github.com/manusa/kubernetes-mcp-server",
       "source": "github",
-      "stars": 1337,
-      "lastUpdated": "2026-03-26T19:40:26Z"
+      "stars": 1341,
+      "lastUpdated": "2026-03-27T21:01:36Z"
     },
     "tags": [
       "community"
@@ -20480,8 +20480,8 @@
     "repository": {
       "url": "https://github.com/kukapay/kukapay-mcp-servers",
       "source": "github",
-      "stars": 20,
-      "lastUpdated": "2026-03-22T14:43:02Z"
+      "stars": 21,
+      "lastUpdated": "2026-03-27T03:38:29Z"
     },
     "tags": [
       "community"
@@ -20594,8 +20594,8 @@
     "repository": {
       "url": "https://github.com/isaacphi/mcp-language-server",
       "source": "github",
-      "stars": 1502,
-      "lastUpdated": "2026-03-26T09:02:07Z"
+      "stars": 1503,
+      "lastUpdated": "2026-03-28T02:37:01Z"
     },
     "tags": [
       "community"
@@ -20624,7 +20624,7 @@
       "url": "https://github.com/willianpinho/large-file-mcp",
       "source": "github",
       "stars": 9,
-      "lastUpdated": "2026-03-26T17:48:02Z"
+      "lastUpdated": "2026-03-27T18:45:23Z"
     },
     "tags": [
       "community"
@@ -20765,8 +20765,8 @@
     "repository": {
       "url": "https://github.com/amornpan/py-mcp-line",
       "source": "github",
-      "stars": 19,
-      "lastUpdated": "2026-01-08T07:59:31Z"
+      "stars": 20,
+      "lastUpdated": "2026-03-27T12:28:11Z"
     },
     "tags": [
       "community"
@@ -20945,8 +20945,8 @@
     "repository": {
       "url": "https://github.com/stass/lldb-mcp",
       "source": "github",
-      "stars": 88,
-      "lastUpdated": "2026-03-24T00:41:20Z"
+      "stars": 90,
+      "lastUpdated": "2026-03-27T12:55:50Z"
     },
     "tags": [
       "community"
@@ -20990,8 +20990,8 @@
     "repository": {
       "url": "https://github.com/shinpr/mcp-local-rag",
       "source": "github",
-      "stars": 180,
-      "lastUpdated": "2026-03-26T02:45:16Z"
+      "stars": 183,
+      "lastUpdated": "2026-03-27T20:40:00Z"
     },
     "tags": [
       "community"
@@ -21043,8 +21043,8 @@
     "repository": {
       "url": "https://github.com/scottlepp/loki-mcp",
       "source": "github",
-      "stars": 105,
-      "lastUpdated": "2026-03-25T11:44:32Z"
+      "stars": 106,
+      "lastUpdated": "2026-03-27T06:35:17Z"
     },
     "tags": [
       "community"
@@ -21215,8 +21215,8 @@
     "repository": {
       "url": "https://github.com/carterlasalle/mac_messages_mcp",
       "source": "github",
-      "stars": 256,
-      "lastUpdated": "2026-03-26T22:25:29Z"
+      "stars": 258,
+      "lastUpdated": "2026-03-27T22:25:54Z"
     },
     "tags": [
       "community"
@@ -21411,8 +21411,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/pandoc",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "community"
@@ -21426,8 +21426,8 @@
     "repository": {
       "url": "https://github.com/zcaceres/mcp-markdownify-server",
       "source": "github",
-      "stars": 2494,
-      "lastUpdated": "2026-03-26T21:40:54Z"
+      "stars": 2497,
+      "lastUpdated": "2026-03-27T17:35:53Z"
     },
     "tags": [
       "community"
@@ -21456,8 +21456,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/markitdown",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "community"
@@ -21497,8 +21497,8 @@
     "repository": {
       "url": "https://github.com/mastergo-design/mastergo-magic-mcp",
       "source": "github",
-      "stars": 226,
-      "lastUpdated": "2026-03-26T09:53:42Z"
+      "stars": 227,
+      "lastUpdated": "2026-03-27T14:14:14Z"
     },
     "tags": [
       "community"
@@ -21973,7 +21973,7 @@
       "url": "https://github.com/call518/MCP-Airflow-API",
       "source": "github",
       "stars": 44,
-      "lastUpdated": "2026-03-18T11:58:59Z"
+      "lastUpdated": "2026-03-27T13:14:15Z"
     },
     "tags": [
       "community"
@@ -22036,8 +22036,8 @@
     "repository": {
       "url": "https://github.com/jokemanfire/mcp-containerd",
       "source": "github",
-      "stars": 55,
-      "lastUpdated": "2026-03-03T05:31:29Z"
+      "stars": 54,
+      "lastUpdated": "2026-03-27T21:47:33Z"
     },
     "tags": [
       "community"
@@ -22189,8 +22189,8 @@
     "repository": {
       "url": "https://github.com/doobidoo/mcp-memory-service",
       "source": "github",
-      "stars": 1557,
-      "lastUpdated": "2026-03-27T02:18:38Z"
+      "stars": 1562,
+      "lastUpdated": "2026-03-28T01:57:24Z"
     },
     "tags": [
       "community"
@@ -22240,8 +22240,8 @@
     "repository": {
       "url": "https://github.com/utensils/mcp-nixos",
       "source": "github",
-      "stars": 516,
-      "lastUpdated": "2026-03-26T07:45:37Z"
+      "stars": 519,
+      "lastUpdated": "2026-03-27T13:42:54Z"
     },
     "tags": [
       "community"
@@ -22294,7 +22294,7 @@
       "url": "https://github.com/call518/MCP-OpenStack-Ops",
       "source": "github",
       "stars": 21,
-      "lastUpdated": "2026-03-18T12:01:28Z"
+      "lastUpdated": "2026-03-27T13:47:33Z"
     },
     "tags": [
       "community"
@@ -22340,7 +22340,7 @@
       "url": "https://github.com/call518/MCP-PostgreSQL-Ops",
       "source": "github",
       "stars": 142,
-      "lastUpdated": "2026-03-25T13:05:01Z"
+      "lastUpdated": "2026-03-27T13:39:28Z"
     },
     "tags": [
       "community"
@@ -22371,8 +22371,8 @@
     "repository": {
       "url": "https://github.com/sparfenyuk/mcp-proxy",
       "source": "github",
-      "stars": 2379,
-      "lastUpdated": "2026-03-26T13:29:37Z"
+      "stars": 2380,
+      "lastUpdated": "2026-03-27T15:14:01Z"
     },
     "tags": [
       "community"
@@ -22527,7 +22527,7 @@
       "url": "https://github.com/zaizaizhao/mcp-swagger-server",
       "source": "github",
       "stars": 62,
-      "lastUpdated": "2026-03-26T07:53:42Z"
+      "lastUpdated": "2026-03-27T13:36:17Z"
     },
     "tags": [
       "community"
@@ -22724,8 +22724,8 @@
     "repository": {
       "url": "https://github.com/mcpjungle/MCPJungle",
       "source": "github",
-      "stars": 927,
-      "lastUpdated": "2026-03-26T22:29:55Z"
+      "stars": 928,
+      "lastUpdated": "2026-03-27T23:39:21Z"
     },
     "tags": [
       "community"
@@ -22794,8 +22794,8 @@
     "repository": {
       "url": "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server",
       "source": "github",
-      "stars": 70,
-      "lastUpdated": "2026-03-26T11:35:16Z"
+      "stars": 72,
+      "lastUpdated": "2026-03-27T19:20:31Z"
     },
     "tags": [
       "community"
@@ -23011,8 +23011,8 @@
     "repository": {
       "url": "https://github.com/pipeboard-co/meta-ads-mcp",
       "source": "github",
-      "stars": 690,
-      "lastUpdated": "2026-03-26T21:21:31Z"
+      "stars": 695,
+      "lastUpdated": "2026-03-27T23:51:21Z"
     },
     "tags": [
       "community"
@@ -23031,8 +23031,8 @@
     "repository": {
       "url": "https://github.com/ariadng/metatrader-mcp-server",
       "source": "github",
-      "stars": 179,
-      "lastUpdated": "2026-03-26T22:36:20Z"
+      "stars": 182,
+      "lastUpdated": "2026-03-27T14:51:32Z"
     },
     "tags": [
       "community"
@@ -23103,8 +23103,8 @@
     "repository": {
       "url": "https://github.com/softeria/ms-365-mcp-server",
       "source": "github",
-      "stars": 568,
-      "lastUpdated": "2026-03-27T02:22:16Z"
+      "stars": 571,
+      "lastUpdated": "2026-03-28T02:33:23Z"
     },
     "tags": [
       "community"
@@ -23184,8 +23184,8 @@
     "repository": {
       "url": "https://github.com/InditexTech/mcp-teams-server",
       "source": "github",
-      "stars": 362,
-      "lastUpdated": "2026-03-24T23:40:15Z"
+      "stars": 363,
+      "lastUpdated": "2026-03-27T15:32:57Z"
     },
     "tags": [
       "community"
@@ -23200,7 +23200,7 @@
       "url": "https://github.com/openMF/mcp-mifosx",
       "source": "github",
       "stars": 19,
-      "lastUpdated": "2026-03-25T02:58:23Z"
+      "lastUpdated": "2026-03-27T16:30:27Z"
     },
     "tags": [
       "community"
@@ -23254,8 +23254,8 @@
     "repository": {
       "url": "https://github.com/dmayboroda/minima",
       "source": "github",
-      "stars": 1039,
-      "lastUpdated": "2026-03-18T05:52:41Z"
+      "stars": 1037,
+      "lastUpdated": "2026-03-27T18:48:43Z"
     },
     "tags": [
       "community"
@@ -23295,8 +23295,8 @@
     "repository": {
       "url": "https://github.com/mobile-next/mobile-mcp",
       "source": "github",
-      "stars": 4182,
-      "lastUpdated": "2026-03-27T03:10:46Z"
+      "stars": 4200,
+      "lastUpdated": "2026-03-28T02:33:43Z"
     },
     "tags": [
       "community"
@@ -23319,8 +23319,8 @@
     "repository": {
       "url": "https://github.com/modao-dev/modao-proto-mcp",
       "source": "github",
-      "stars": 44,
-      "lastUpdated": "2026-03-26T08:58:35Z"
+      "stars": 48,
+      "lastUpdated": "2026-03-27T18:02:08Z"
     },
     "tags": [
       "community"
@@ -23602,7 +23602,7 @@
       "url": "https://github.com/YuChenSSR/multi-ai-advisor-mcp",
       "source": "github",
       "stars": 78,
-      "lastUpdated": "2026-03-05T10:34:29Z"
+      "lastUpdated": "2026-03-27T09:30:32Z"
     },
     "tags": [
       "community"
@@ -23648,8 +23648,8 @@
     "repository": {
       "url": "https://github.com/benborla/mcp-server-mysql",
       "source": "github",
-      "stars": 1427,
-      "lastUpdated": "2026-03-27T03:00:32Z"
+      "stars": 1438,
+      "lastUpdated": "2026-03-28T01:22:46Z"
     },
     "tags": [
       "community"
@@ -23692,8 +23692,8 @@
     "repository": {
       "url": "https://github.com/designcomputer/mysql_mcp_server",
       "source": "github",
-      "stars": 1186,
-      "lastUpdated": "2026-03-26T00:59:40Z"
+      "stars": 1189,
+      "lastUpdated": "2026-03-28T02:00:44Z"
     },
     "tags": [
       "community"
@@ -23740,8 +23740,8 @@
     "repository": {
       "url": "https://github.com/leonardsellem/n8n-mcp-server",
       "source": "github",
-      "stars": 1588,
-      "lastUpdated": "2026-03-25T16:04:20Z"
+      "stars": 1589,
+      "lastUpdated": "2026-03-27T06:52:26Z"
     },
     "tags": [
       "community"
@@ -23822,8 +23822,8 @@
     "repository": {
       "url": "https://github.com/ProgramComputer/NASA-MCP-server",
       "source": "github",
-      "stars": 82,
-      "lastUpdated": "2026-03-27T00:06:38Z"
+      "stars": 83,
+      "lastUpdated": "2026-03-27T08:13:06Z"
     },
     "tags": [
       "community"
@@ -24061,8 +24061,8 @@
     "repository": {
       "url": "https://github.com/bigcodegen/mcp-neovim-server",
       "source": "github",
-      "stars": 301,
-      "lastUpdated": "2026-03-26T11:28:22Z"
+      "stars": 302,
+      "lastUpdated": "2026-03-27T17:00:18Z"
     },
     "tags": [
       "community"
@@ -24557,8 +24557,8 @@
     "repository": {
       "url": "https://github.com/bgauryy/octocode-mcp",
       "source": "github",
-      "stars": 765,
-      "lastUpdated": "2026-03-26T19:08:12Z"
+      "stars": 766,
+      "lastUpdated": "2026-03-27T16:21:27Z"
     },
     "tags": [
       "community"
@@ -24580,8 +24580,8 @@
     "repository": {
       "url": "https://github.com/ivnvxd/mcp-server-odoo",
       "source": "github",
-      "stars": 213,
-      "lastUpdated": "2026-03-27T02:23:38Z"
+      "stars": 216,
+      "lastUpdated": "2026-03-27T22:53:04Z"
     },
     "tags": [
       "community"
@@ -24607,8 +24607,8 @@
     "repository": {
       "url": "https://github.com/GongRzhe/Office-PowerPoint-MCP-Server",
       "source": "github",
-      "stars": 1605,
-      "lastUpdated": "2026-03-26T01:39:04Z"
+      "stars": 1609,
+      "lastUpdated": "2026-03-28T00:51:39Z"
     },
     "tags": [
       "community"
@@ -24658,8 +24658,8 @@
     "repository": {
       "url": "https://github.com/GongRzhe/Office-Word-MCP-Server",
       "source": "github",
-      "stars": 1784,
-      "lastUpdated": "2026-03-26T10:15:55Z"
+      "stars": 1790,
+      "lastUpdated": "2026-03-27T17:40:42Z"
     },
     "tags": [
       "community"
@@ -24971,7 +24971,7 @@
       "url": "https://github.com/kadykov/mcp-openapi-schema-explorer",
       "source": "github",
       "stars": 68,
-      "lastUpdated": "2026-03-19T07:39:46Z"
+      "lastUpdated": "2026-03-27T15:45:37Z"
     },
     "tags": [
       "community"
@@ -25048,8 +25048,8 @@
     "repository": {
       "url": "https://github.com/X-lab2017/open-digger-mcp-server",
       "source": "github",
-      "stars": 7,
-      "lastUpdated": "2025-12-12T14:42:15Z"
+      "stars": 8,
+      "lastUpdated": "2026-03-27T11:02:40Z"
     },
     "tags": [
       "community"
@@ -25522,8 +25522,8 @@
     "repository": {
       "url": "https://github.com/Vortiago/mcp-outline",
       "source": "github",
-      "stars": 123,
-      "lastUpdated": "2026-03-25T18:45:13Z"
+      "stars": 124,
+      "lastUpdated": "2026-03-27T03:23:20Z"
     },
     "tags": [
       "community"
@@ -25876,8 +25876,8 @@
     "repository": {
       "url": "https://github.com/AIDC-AI/Pixelle-MCP",
       "source": "github",
-      "stars": 939,
-      "lastUpdated": "2026-03-26T03:10:46Z"
+      "stars": 938,
+      "lastUpdated": "2026-03-27T12:14:50Z"
     },
     "tags": [
       "community"
@@ -25945,8 +25945,8 @@
     "repository": {
       "url": "https://github.com/executeautomation/mcp-playwright",
       "source": "github",
-      "stars": 5352,
-      "lastUpdated": "2026-03-26T23:41:24Z"
+      "stars": 5357,
+      "lastUpdated": "2026-03-27T23:04:32Z"
     },
     "tags": [
       "community"
@@ -26107,7 +26107,7 @@
       "url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
       "source": "github",
       "stars": 22,
-      "lastUpdated": "2026-03-26T21:37:01Z"
+      "lastUpdated": "2026-03-27T12:20:55Z"
     },
     "tags": [
       "community"
@@ -26150,8 +26150,8 @@
     "repository": {
       "url": "https://github.com/adamjmurray/producer-pal",
       "source": "github",
-      "stars": 107,
-      "lastUpdated": "2026-03-26T23:43:00Z"
+      "stars": 108,
+      "lastUpdated": "2026-03-27T17:38:56Z"
     },
     "tags": [
       "community"
@@ -26192,8 +26192,8 @@
     "repository": {
       "url": "https://github.com/pab1it0/prometheus-mcp-server",
       "source": "github",
-      "stars": 391,
-      "lastUpdated": "2026-03-24T09:43:54Z"
+      "stars": 394,
+      "lastUpdated": "2026-03-27T16:45:21Z"
     },
     "tags": [
       "community"
@@ -26344,8 +26344,8 @@
     "repository": {
       "url": "https://github.com/djannot/puppeteer-vision-mcp",
       "source": "github",
-      "stars": 47,
-      "lastUpdated": "2026-02-10T16:07:11Z"
+      "stars": 48,
+      "lastUpdated": "2026-03-27T18:36:26Z"
     },
     "tags": [
       "community"
@@ -26430,8 +26430,8 @@
     "repository": {
       "url": "https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python",
       "source": "github",
-      "stars": 15844,
-      "lastUpdated": "2026-03-27T02:28:31Z"
+      "stars": 15881,
+      "lastUpdated": "2026-03-28T03:08:34Z"
     },
     "tags": [
       "community"
@@ -26475,8 +26475,8 @@
     "repository": {
       "url": "https://github.com/jjsantos01/qgis_mcp",
       "source": "github",
-      "stars": 867,
-      "lastUpdated": "2026-03-26T17:23:41Z"
+      "stars": 871,
+      "lastUpdated": "2026-03-27T20:29:14Z"
     },
     "tags": [
       "community"
@@ -26744,8 +26744,8 @@
     "repository": {
       "url": "https://github.com/dschuler36/reaper-mcp-server",
       "source": "github",
-      "stars": 89,
-      "lastUpdated": "2026-03-23T07:40:50Z"
+      "stars": 90,
+      "lastUpdated": "2026-03-27T06:31:18Z"
     },
     "tags": [
       "community"
@@ -26841,8 +26841,8 @@
     "repository": {
       "url": "https://github.com/ifuryst/rednote-mcp",
       "source": "github",
-      "stars": 1025,
-      "lastUpdated": "2026-03-25T14:59:40Z"
+      "stars": 1027,
+      "lastUpdated": "2026-03-27T18:06:37Z"
     },
     "tags": [
       "community"
@@ -26937,8 +26937,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/resend",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "community"
@@ -27036,8 +27036,8 @@
     "repository": {
       "url": "https://github.com/tomaspavlin/rohlik-mcp",
       "source": "github",
-      "stars": 100,
-      "lastUpdated": "2026-03-25T17:35:20Z"
+      "stars": 101,
+      "lastUpdated": "2026-03-27T17:11:06Z"
     },
     "tags": [
       "community"
@@ -27156,8 +27156,8 @@
     "repository": {
       "url": "https://github.com/tsmztech/mcp-server-salesforce",
       "source": "github",
-      "stars": 145,
-      "lastUpdated": "2026-03-26T23:22:38Z"
+      "stars": 146,
+      "lastUpdated": "2026-03-27T23:57:06Z"
     },
     "tags": [
       "community"
@@ -27256,8 +27256,8 @@
     "repository": {
       "url": "https://github.com/cyberchitta/scrapling-fetch-mcp",
       "source": "github",
-      "stars": 74,
-      "lastUpdated": "2026-03-25T01:29:06Z"
+      "stars": 75,
+      "lastUpdated": "2026-03-27T09:39:24Z"
     },
     "tags": [
       "community"
@@ -27328,8 +27328,8 @@
     "repository": {
       "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
       "source": "github",
-      "stars": 573,
-      "lastUpdated": "2026-03-26T18:49:06Z"
+      "stars": 577,
+      "lastUpdated": "2026-03-28T02:14:20Z"
     },
     "tags": [
       "community"
@@ -27397,8 +27397,8 @@
     "repository": {
       "url": "https://github.com/stefanoamorelli/sec-edgar-mcp",
       "source": "github",
-      "stars": 242,
-      "lastUpdated": "2026-03-26T04:09:32Z"
+      "stars": 244,
+      "lastUpdated": "2026-03-27T21:42:26Z"
     },
     "tags": [
       "community"
@@ -27496,8 +27496,8 @@
     "repository": {
       "url": "https://github.com/osomai/servicenow-mcp",
       "source": "github",
-      "stars": 228,
-      "lastUpdated": "2026-03-27T00:38:49Z"
+      "stars": 229,
+      "lastUpdated": "2026-03-27T05:10:32Z"
     },
     "tags": [
       "community"
@@ -27616,8 +27616,8 @@
     "repository": {
       "url": "https://github.com/GeLi2001/shopify-mcp",
       "source": "github",
-      "stars": 173,
-      "lastUpdated": "2026-03-27T00:25:51Z"
+      "stars": 174,
+      "lastUpdated": "2026-03-27T19:31:55Z"
     },
     "tags": [
       "community"
@@ -27714,8 +27714,8 @@
     "repository": {
       "url": "https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp",
       "source": "github",
-      "stars": 20969,
-      "lastUpdated": "2026-03-27T03:05:25Z"
+      "stars": 20976,
+      "lastUpdated": "2026-03-28T03:03:10Z"
     },
     "tags": [
       "community"
@@ -27744,8 +27744,8 @@
     "repository": {
       "url": "https://github.com/korotovsky/slack-mcp-server",
       "source": "github",
-      "stars": 1483,
-      "lastUpdated": "2026-03-26T23:45:06Z"
+      "stars": 1488,
+      "lastUpdated": "2026-03-28T02:11:41Z"
     },
     "tags": [
       "community"
@@ -27832,8 +27832,8 @@
     "repository": {
       "url": "https://github.com/Snowflake-Labs/mcp",
       "source": "github",
-      "stars": 264,
-      "lastUpdated": "2026-03-25T22:36:28Z"
+      "stars": 265,
+      "lastUpdated": "2026-03-27T20:54:26Z"
     },
     "tags": [
       "community"
@@ -28050,8 +28050,8 @@
     "repository": {
       "url": "https://github.com/TBosak/specbridge",
       "source": "github",
-      "stars": 8,
-      "lastUpdated": "2026-03-26T01:40:48Z"
+      "stars": 7,
+      "lastUpdated": "2026-03-27T08:11:49Z"
     },
     "tags": [
       "community"
@@ -28150,8 +28150,8 @@
     "repository": {
       "url": "https://github.com/AiondaDotCom/mcp-ssh",
       "source": "github",
-      "stars": 55,
-      "lastUpdated": "2026-03-27T01:45:46Z"
+      "stars": 56,
+      "lastUpdated": "2026-03-27T12:28:13Z"
     },
     "tags": [
       "community"
@@ -28173,8 +28173,8 @@
     "repository": {
       "url": "https://github.com/classfang/ssh-mcp-server",
       "source": "github",
-      "stars": 257,
-      "lastUpdated": "2026-03-26T03:36:59Z"
+      "stars": 262,
+      "lastUpdated": "2026-03-28T02:55:38Z"
     },
     "tags": [
       "community"
@@ -28624,8 +28624,8 @@
     "repository": {
       "url": "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp",
       "source": "github",
-      "stars": 6564,
-      "lastUpdated": "2026-03-27T03:02:24Z"
+      "stars": 6571,
+      "lastUpdated": "2026-03-28T02:21:37Z"
     },
     "tags": [
       "community"
@@ -28783,8 +28783,8 @@
     "repository": {
       "url": "https://github.com/chigwell/telegram-mcp",
       "source": "github",
-      "stars": 845,
-      "lastUpdated": "2026-03-27T01:30:52Z"
+      "stars": 850,
+      "lastUpdated": "2026-03-27T22:19:19Z"
     },
     "tags": [
       "community"
@@ -28809,8 +28809,8 @@
     "repository": {
       "url": "https://github.com/chaindead/telegram-mcp",
       "source": "github",
-      "stars": 307,
-      "lastUpdated": "2026-03-26T20:33:04Z"
+      "stars": 308,
+      "lastUpdated": "2026-03-28T00:50:45Z"
     },
     "tags": [
       "community"
@@ -29349,7 +29349,7 @@
       "url": "https://github.com/abuhamza/tideways-mcp-server",
       "source": "github",
       "stars": 1,
-      "lastUpdated": "2025-08-15T09:54:32Z"
+      "lastUpdated": "2026-03-27T18:39:43Z"
     },
     "tags": [
       "community"
@@ -29655,8 +29655,8 @@
     "repository": {
       "url": "https://github.com/8beeeaaat/touchdesigner-mcp",
       "source": "github",
-      "stars": 242,
-      "lastUpdated": "2026-03-26T23:51:41Z"
+      "stars": 244,
+      "lastUpdated": "2026-03-27T14:48:58Z"
     },
     "tags": [
       "community"
@@ -29726,8 +29726,8 @@
     "repository": {
       "url": "https://github.com/tuannvm/mcp-trino",
       "source": "github",
-      "stars": 98,
-      "lastUpdated": "2026-03-27T01:46:33Z"
+      "stars": 100,
+      "lastUpdated": "2026-03-27T16:04:19Z"
     },
     "tags": [
       "community"
@@ -29815,8 +29815,8 @@
     "repository": {
       "url": "https://github.com/TurixAI/TuriX-CUA/tree/mac_mcp",
       "source": "github",
-      "stars": 1989,
-      "lastUpdated": "2026-03-27T03:04:02Z"
+      "stars": 2005,
+      "lastUpdated": "2026-03-27T15:53:43Z"
     },
     "tags": [
       "community"
@@ -30004,8 +30004,8 @@
     "repository": {
       "url": "https://github.com/quazaai/UnityMCPIntegration",
       "source": "github",
-      "stars": 148,
-      "lastUpdated": "2026-03-25T09:21:36Z"
+      "stars": 147,
+      "lastUpdated": "2026-03-27T17:25:16Z"
     },
     "tags": [
       "community"
@@ -30030,8 +30030,8 @@
     "repository": {
       "url": "https://github.com/IvanMurzak/Unity-MCP",
       "source": "github",
-      "stars": 1708,
-      "lastUpdated": "2026-03-27T02:05:18Z"
+      "stars": 1733,
+      "lastUpdated": "2026-03-28T03:09:48Z"
     },
     "tags": [
       "community"
@@ -30059,8 +30059,8 @@
     "repository": {
       "url": "https://github.com/CoderGamester/mcp-unity",
       "source": "github",
-      "stars": 1514,
-      "lastUpdated": "2026-03-26T13:21:37Z"
+      "stars": 1520,
+      "lastUpdated": "2026-03-28T03:10:43Z"
     },
     "tags": [
       "community"
@@ -30503,8 +30503,8 @@
     "repository": {
       "url": "https://github.com/mbailey/voicemode",
       "source": "github",
-      "stars": 919,
-      "lastUpdated": "2026-03-27T03:14:09Z"
+      "stars": 921,
+      "lastUpdated": "2026-03-27T12:02:47Z"
     },
     "tags": [
       "community"
@@ -30638,8 +30638,8 @@
     "repository": {
       "url": "https://github.com/mrkrsl/web-search-mcp",
       "source": "github",
-      "stars": 671,
-      "lastUpdated": "2026-03-26T21:19:07Z"
+      "stars": 673,
+      "lastUpdated": "2026-03-28T01:56:37Z"
     },
     "tags": [
       "community"
@@ -30781,8 +30781,8 @@
     "repository": {
       "url": "https://github.com/lharries/whatsapp-mcp",
       "source": "github",
-      "stars": 5456,
-      "lastUpdated": "2026-03-26T20:12:22Z"
+      "stars": 5459,
+      "lastUpdated": "2026-03-27T19:03:50Z"
     },
     "tags": [
       "community"
@@ -30836,7 +30836,7 @@
       "url": "https://github.com/zzaebok/mcp-wikidata",
       "source": "github",
       "stars": 40,
-      "lastUpdated": "2026-03-11T20:17:40Z"
+      "lastUpdated": "2026-03-27T13:38:31Z"
     },
     "tags": [
       "community"
@@ -30898,8 +30898,8 @@
     "repository": {
       "url": "https://github.com/Rudra-ravi/wikipedia-mcp",
       "source": "github",
-      "stars": 212,
-      "lastUpdated": "2026-03-26T10:33:27Z"
+      "stars": 216,
+      "lastUpdated": "2026-03-27T16:53:35Z"
     },
     "tags": [
       "community"
@@ -30997,8 +30997,8 @@
     "repository": {
       "url": "https://github.com/Automattic/wordpress-mcp",
       "source": "github",
-      "stars": 798,
-      "lastUpdated": "2026-03-26T23:01:02Z"
+      "stars": 800,
+      "lastUpdated": "2026-03-27T12:02:25Z"
     },
     "tags": [
       "community"
@@ -31026,8 +31026,8 @@
     "repository": {
       "url": "https://github.com/WordPress/mcp-adapter",
       "source": "github",
-      "stars": 747,
-      "lastUpdated": "2026-03-26T20:19:18Z"
+      "stars": 751,
+      "lastUpdated": "2026-03-28T01:25:48Z"
     },
     "tags": [
       "community"
@@ -31097,8 +31097,8 @@
     "repository": {
       "url": "https://github.com/Canner/wren-engine",
       "source": "github",
-      "stars": 603,
-      "lastUpdated": "2026-03-27T01:56:31Z"
+      "stars": 605,
+      "lastUpdated": "2026-03-27T18:07:26Z"
     },
     "tags": [
       "community"
@@ -31112,8 +31112,8 @@
     "repository": {
       "url": "https://github.com/EnesCinr/twitter-mcp",
       "source": "github",
-      "stars": 382,
-      "lastUpdated": "2026-03-26T14:42:26Z"
+      "stars": 383,
+      "lastUpdated": "2026-03-27T06:40:36Z"
     },
     "tags": [
       "community"
@@ -31190,7 +31190,7 @@
       "url": "https://github.com/drewster99/xcode-mcp-server",
       "source": "github",
       "stars": 5,
-      "lastUpdated": "2026-03-25T20:15:07Z"
+      "lastUpdated": "2026-03-27T22:23:12Z"
     },
     "tags": [
       "community"
@@ -31250,8 +31250,8 @@
     "repository": {
       "url": "https://github.com/XeroAPI/xero-mcp-server",
       "source": "github",
-      "stars": 219,
-      "lastUpdated": "2026-03-26T01:33:56Z"
+      "stars": 220,
+      "lastUpdated": "2026-03-27T19:14:35Z"
     },
     "tags": [
       "community"
@@ -31330,8 +31330,8 @@
     "repository": {
       "url": "https://github.com/AgentX-ai/yahoo-finance-server",
       "source": "github",
-      "stars": 39,
-      "lastUpdated": "2026-03-25T22:41:21Z"
+      "stars": 40,
+      "lastUpdated": "2026-03-28T02:47:07Z"
     },
     "tags": [
       "community"
@@ -31416,8 +31416,8 @@
     "repository": {
       "url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube",
       "source": "github",
-      "stars": 5682,
-      "lastUpdated": "2026-03-27T02:04:57Z"
+      "stars": 5685,
+      "lastUpdated": "2026-03-27T21:21:47Z"
     },
     "tags": [
       "community"
@@ -31431,8 +31431,8 @@
     "repository": {
       "url": "https://github.com/ZubeidHendricks/youtube-mcp-server",
       "source": "github",
-      "stars": 467,
-      "lastUpdated": "2026-03-26T20:55:50Z"
+      "stars": 468,
+      "lastUpdated": "2026-03-27T12:51:29Z"
     },
     "tags": [
       "community"
@@ -31460,8 +31460,8 @@
     "repository": {
       "url": "https://github.com/AgentX-ai/youtube-dlp-server",
       "source": "github",
-      "stars": 5,
-      "lastUpdated": "2026-01-30T16:53:23Z"
+      "stars": 6,
+      "lastUpdated": "2026-03-28T02:47:22Z"
     },
     "tags": [
       "community"
@@ -31529,8 +31529,8 @@
     "repository": {
       "url": "https://github.com/nabid-pf/youtube-video-summarizer-mcp",
       "source": "github",
-      "stars": 56,
-      "lastUpdated": "2026-03-06T16:40:24Z"
+      "stars": 57,
+      "lastUpdated": "2026-03-27T19:36:00Z"
     },
     "tags": [
       "community"
@@ -31553,8 +31553,8 @@
     "repository": {
       "url": "https://github.com/eat-pray-ai/yutu",
       "source": "github",
-      "stars": 415,
-      "lastUpdated": "2026-03-26T09:19:10Z"
+      "stars": 416,
+      "lastUpdated": "2026-03-27T16:44:20Z"
     },
     "tags": [
       "community"
