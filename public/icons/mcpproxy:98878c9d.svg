@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <title>mcpproxy favicon</title>
+  <style>
+    @media (prefers-color-scheme: dark){
+      .shield,.circle { fill:#FFFFFF; }
+      .letter          { fill:#000000; }
+    }
+    @media (prefers-color-scheme: light){
+      .shield,.circle { fill:#0ea5e9; }
+      .letter          { fill:#FFFFFF; }
+    }
+  </style>
+
+  <!-- Shield -->
+  <path class="shield"
+        d="M60.5 9l-30.5 10.714v21.429c0 18.75 12.619 38.357 30.5 42.857
+           17.881-4.5 30.5-24.107 30.5-42.857V19.714L60.5 9Z"/>
+
+  <!-- MCP circles -->
+  <circle class="circle" cx="40" cy="95" r="10"/>
+  <circle class="circle" cx="60" cy="95" r="10"/>
+  <circle class="circle" cx="80" cy="95" r="10"/>
+
+  <!-- Letters -->
+  <text class="letter" x="40" y="98" text-anchor="middle"
+        font-family="Arial" font-size="10" font-weight="bold">M</text>
+  <text class="letter" x="60" y="99" text-anchor="middle"
+        font-family="Arial" font-size="10" font-weight="bold">C</text>
+  <text class="letter" x="80" y="99" text-anchor="middle"
+        font-family="Arial" font-size="10" font-weight="bold">P</text>
+</svg> 
