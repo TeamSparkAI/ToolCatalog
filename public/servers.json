@@ -7,8 +7,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -31,8 +31,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -54,8 +54,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -80,8 +80,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -105,8 +105,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -129,8 +129,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -153,8 +153,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
       "source": "github",
-      "stars": 85343,
-      "lastUpdated": "2026-05-10T03:14:35Z"
+      "stars": 85407,
+      "lastUpdated": "2026-05-11T03:19:08Z"
     },
     "tags": [
       "reference"
@@ -177,7 +177,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -207,7 +207,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -235,7 +235,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -263,7 +263,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -291,7 +291,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -320,7 +320,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -348,7 +348,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -376,7 +376,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -402,7 +402,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -427,7 +427,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -453,7 +453,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -479,7 +479,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -509,7 +509,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
       "source": "github",
       "stars": 255,
-      "lastUpdated": "2026-05-06T15:41:54Z"
+      "lastUpdated": "2026-05-10T04:35:09Z"
     },
     "tags": [
       "reference",
@@ -596,8 +596,8 @@
     "repository": {
       "url": "https://github.com/appcypher/awesome-mcp-servers",
       "source": "github",
-      "stars": 5527,
-      "lastUpdated": "2026-05-09T14:02:03Z"
+      "stars": 5528,
+      "lastUpdated": "2026-05-10T17:59:40Z"
     },
     "tags": [
       "reference",
@@ -612,8 +612,8 @@
     "repository": {
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "source": "github",
-      "stars": 86574,
-      "lastUpdated": "2026-05-10T03:03:58Z"
+      "stars": 86650,
+      "lastUpdated": "2026-05-11T03:05:33Z"
     },
     "tags": [
       "reference",
@@ -628,8 +628,8 @@
     "repository": {
       "url": "https://github.com/wong2/awesome-mcp-servers",
       "source": "github",
-      "stars": 4049,
-      "lastUpdated": "2026-05-09T22:51:57Z"
+      "stars": 4051,
+      "lastUpdated": "2026-05-11T01:17:58Z"
     },
     "tags": [
       "reference",
@@ -644,8 +644,8 @@
     "repository": {
       "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
       "source": "github",
-      "stars": 1057,
-      "lastUpdated": "2026-05-09T20:39:48Z"
+      "stars": 1058,
+      "lastUpdated": "2026-05-10T04:03:39Z"
     },
     "tags": [
       "reference",
@@ -723,8 +723,8 @@
     "repository": {
       "url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
       "source": "github",
-      "stars": 209,
-      "lastUpdated": "2026-05-08T18:31:43Z"
+      "stars": 211,
+      "lastUpdated": "2026-05-10T06:15:44Z"
     },
     "tags": [
       "reference",
@@ -818,8 +818,8 @@
     "repository": {
       "url": "https://github.com/milisp/mcp-linker",
       "source": "github",
-      "stars": 308,
-      "lastUpdated": "2026-05-04T18:08:09Z"
+      "stars": 310,
+      "lastUpdated": "2026-05-11T03:12:11Z"
     },
     "tags": [
       "reference",
@@ -923,7 +923,7 @@
       "url": "https://github.com/apappascs/mcp-servers-hub",
       "source": "github",
       "stars": 321,
-      "lastUpdated": "2026-05-09T14:44:11Z"
+      "lastUpdated": "2026-05-10T14:46:22Z"
     },
     "tags": [
       "reference",
@@ -994,8 +994,8 @@
     "repository": {
       "url": "https://github.com/Jeamee/MCPHub-Desktop",
       "source": "github",
-      "stars": 147,
-      "lastUpdated": "2026-05-04T14:12:10Z"
+      "stars": 149,
+      "lastUpdated": "2026-05-11T01:33:40Z"
     },
     "tags": [
       "reference",
@@ -1117,7 +1117,7 @@
       "url": "https://github.com/chatmcp/mcp-directory",
       "source": "github",
       "stars": 2004,
-      "lastUpdated": "2026-05-09T10:08:55Z"
+      "lastUpdated": "2026-05-11T03:11:55Z"
     },
     "tags": [
       "reference",
@@ -1246,8 +1246,8 @@
     "repository": {
       "url": "https://github.com/StacklokLabs/toolhive",
       "source": "github",
-      "stars": 1781,
-      "lastUpdated": "2026-05-10T02:26:48Z"
+      "stars": 1782,
+      "lastUpdated": "2026-05-11T02:01:38Z"
     },
     "tags": [
       "reference",
