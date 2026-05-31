@@ -7,8 +7,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -31,8 +31,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -54,8 +54,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -80,8 +80,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -105,8 +105,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -129,8 +129,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -153,8 +153,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
       "source": "github",
-      "stars": 86459,
-      "lastUpdated": "2026-05-30T02:58:49Z"
+      "stars": 86491,
+      "lastUpdated": "2026-05-31T02:47:52Z"
     },
     "tags": [
       "reference"
@@ -176,8 +176,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -206,8 +206,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -234,8 +234,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -262,8 +262,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -290,8 +290,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -319,8 +319,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -347,8 +347,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -375,8 +375,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -401,8 +401,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -426,8 +426,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -452,8 +452,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -478,8 +478,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -508,8 +508,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
       "source": "github",
-      "stars": 266,
-      "lastUpdated": "2026-05-27T05:49:33Z"
+      "stars": 268,
+      "lastUpdated": "2026-05-30T14:15:57Z"
     },
     "tags": [
       "reference",
@@ -524,781 +524,6 @@
         "--db-path",
         "/path/to/db.sqlite"
       ]
-    }
-  },
-  {
-    "id": "r-mcptools:afc02cf2",
-    "icon": null,
-    "name": "R mcptools",
-    "description": "An R SDK for creating R-based MCP servers and retrieving functionality from third-party MCP servers as R functions.",
-    "repository": {
-      "url": "https://github.com/posit-dev/mcptools",
-      "source": "github",
-      "stars": 176,
-      "lastUpdated": "2026-05-22T19:19:18Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "a2a-mcp-java-bridge:430d98ef",
-    "icon": null,
-    "name": "A2A-MCP Java Bridge",
-    "description": "A2AJava brings powerful A2A-MCP integration directly into your Java applications. It enables developers to annotate standard Java methods and instantly expose them as MCP Server, A2A-discoverable actions — with no boilerplate or service registration overhead.",
-    "repository": {
-      "url": "https://github.com/vishalmysore/a2ajava",
-      "source": "github",
-      "stars": 104,
-      "lastUpdated": "2026-05-28T21:34:51Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "aimcp:d55d7dfa",
-    "icon": null,
-    "name": "AiMCP",
-    "description": "A collection of MCP clients&servers to find the right mcp tools by **Hekmon**",
-    "repository": {
-      "url": "https://www.aimcp.info",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "awesome-crypto-mcp-servers-by-badkk:93d80937",
-    "icon": null,
-    "name": "Awesome Crypto MCP Servers by badkk",
-    "description": "A curated list of MCP servers by **Luke Fan**",
-    "repository": {
-      "url": "https://github.com/badkk/awesome-crypto-mcp-servers",
-      "source": "github",
-      "stars": 136,
-      "lastUpdated": "2026-05-29T10:58:15Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "awesome-mcp-servers-by-appcypher:aae5371c",
-    "icon": null,
-    "name": "Awesome MCP Servers by appcypher",
-    "description": "A curated list of MCP servers by **Stephen Akinyemi**",
-    "repository": {
-      "url": "https://github.com/appcypher/awesome-mcp-servers",
-      "source": "github",
-      "stars": 5570,
-      "lastUpdated": "2026-05-29T23:41:59Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "awesome-mcp-servers-by-punkpeye:61a57c93",
-    "icon": null,
-    "name": "Awesome MCP Servers by punkpeye",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "source": "github",
-      "stars": 88164,
-      "lastUpdated": "2026-05-30T03:09:43Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "awesome-mcp-servers-by-wong2:131c6958",
-    "icon": null,
-    "name": "Awesome MCP Servers by wong2",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/wong2/awesome-mcp-servers",
-      "source": "github",
-      "stars": 4121,
-      "lastUpdated": "2026-05-30T03:06:22Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "awesome-remote-mcp-servers-by-jaw9c:71125d08",
-    "icon": null,
-    "name": "Awesome Remote MCP Servers by JAW9C",
-    "description": "A curated list of **remote** MCP servers, including their authentication support by **JAW9C**",
-    "repository": {
-      "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
-      "source": "github",
-      "stars": 1065,
-      "lastUpdated": "2026-05-26T11:24:57Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ],
-    "serverName": "awesome-remote-mcp-servers-by-jaw9c",
-    "serverConfig": {
-      "type": "sse",
-      "url": "https://mcp.my-awesome-server.com/sse"
-    }
-  },
-  {
-    "id": "discord-server:e840acbf",
-    "icon": null,
-    "name": "Discord Server",
-    "description": "",
-    "repository": {
-      "url": "https://glama.ai/mcp/discord",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "install-this-mcp:aee6ae23",
-    "icon": null,
-    "name": "Install This MCP",
-    "description": "Reduce Installation Friction with beautiful installation guides",
-    "repository": {
-      "url": "https://installthismcp.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "klavis-ai:985d45ff",
-    "icon": "/icons/klavis-ai:985d45ff.png",
-    "name": "Klavis AI",
-    "description": "Open Source MCP Infra. Hosted MCP servers and MCP clients on Slack and Discord.",
-    "repository": {
-      "url": "https://www.klavis.ai",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-badges:a98f559d",
-    "icon": null,
-    "name": "MCP Badges",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/mcpx-dev/mcp-badges",
-      "source": "github",
-      "stars": 29,
-      "lastUpdated": "2025-11-18T07:05:31Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcpproxy:98878c9d",
-    "icon": "/icons/mcpproxy:98878c9d.svg",
-    "name": "MCPProxy",
-    "description": "Open-source local app that enables access to multiple MCP servers and thousands of tools with intelligent discovery via MCP protocol, runs servers in isolated environments, and features automatic quarantine protection against malicious tools.",
-    "repository": {
-      "url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
-      "source": "github",
-      "stars": 235,
-      "lastUpdated": "2026-05-30T03:15:11Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ],
-    "serverName": "mcpproxy",
-    "serverConfig": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "mcp-remote",
-        "http://localhost:8080/mcp"
-      ]
-    }
-  },
-  {
-    "id": "mcprepository-com:17c64562",
-    "icon": null,
-    "name": "MCPRepository.com",
-    "description": "A repository that indexes and organizes all MCP servers for easy discovery.",
-    "repository": {
-      "url": "https://mcprepository.com/",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-cli:fd794e3a",
-    "icon": null,
-    "name": "mcp-cli",
-    "description": "A CLI inspector for the Model Context Protocol by **wong2**",
-    "repository": {
-      "url": "https://github.com/wong2/mcp-cli",
-      "source": "github",
-      "stars": 436,
-      "lastUpdated": "2026-05-27T01:45:49Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-dockmaster:5023e476",
-    "icon": null,
-    "name": "mcp-dockmaster",
-    "description": "An Open-Sourced UI to install and manage MCP servers for Windows, Linux and macOS.",
-    "repository": {
-      "url": "https://mcp-dockmaster.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-get:5754baae",
-    "icon": null,
-    "name": "mcp-get",
-    "description": "Command line tool for installing and managing MCP servers by **Michael Latman**",
-    "repository": {
-      "url": "https://mcp-get.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-guardian:9864bfc7",
-    "icon": null,
-    "name": "mcp-guardian",
-    "description": "GUI application + tools for proxying / managing control of MCP servers by **EQTY Lab**",
-    "repository": {
-      "url": "https://github.com/eqtylab/mcp-guardian",
-      "source": "github",
-      "stars": 199,
-      "lastUpdated": "2026-05-04T11:27:03Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-linker:174a0cd5",
-    "icon": null,
-    "name": "MCP Linker",
-    "description": "A cross-platform Tauri GUI tool for one-click setup and management of MCP servers, supporting Claude Desktop, Cursor, Windsurf, VS Code, Cline, and Neovim.",
-    "repository": {
-      "url": "https://github.com/milisp/mcp-linker",
-      "source": "github",
-      "stars": 313,
-      "lastUpdated": "2026-05-27T15:48:48Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-manager:641cf0e9",
-    "icon": null,
-    "name": "mcp-manager",
-    "description": "Simple Web UI to install and manage MCP servers for Claude Desktop by **Zue**",
-    "repository": {
-      "url": "https://github.com/zueai/mcp-manager",
-      "source": "github",
-      "stars": 287,
-      "lastUpdated": "2026-05-29T08:10:27Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-marketplace-web-plugin:9a28d81f",
-    "icon": null,
-    "name": "MCP Marketplace Web Plugin",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/AI-Agent-Hub/mcp-marketplace",
-      "source": "github",
-      "stars": 1,
-      "lastUpdated": "2026-04-16T18:12:43Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-natoma-ai:876bbc08",
-    "icon": null,
-    "name": "mcp.natoma.ai",
-    "description": "",
-    "repository": {
-      "url": "https://mcp.natoma.ai",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-run:32d3dcb1",
-    "icon": null,
-    "name": "mcp.run",
-    "description": "A hosted registry and control plane to install & run secure + portable MCP Servers.",
-    "repository": {
-      "url": "https://mcp.run",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcphub:ff1f407c",
-    "icon": null,
-    "name": "MCPHub",
-    "description": "Website to list high quality MCP servers and reviews by real users. Also provide online chatbot for popular LLM models with MCP server support.",
-    "repository": {
-      "url": "https://www.mcphub.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-router:fb8d64c4",
-    "icon": null,
-    "name": "MCP Router",
-    "description": "",
-    "repository": {
-      "url": "https://mcp-router.net",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-servers-hub:88eb4c5e",
-    "icon": null,
-    "name": "MCP Servers Hub",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/apappascs/mcp-servers-hub",
-      "source": "github",
-      "stars": 326,
-      "lastUpdated": "2026-05-30T02:38:50Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcpservers-com:a655adea",
-    "icon": null,
-    "name": "MCPServers.com",
-    "description": "A growing directory of high-quality MCP servers with clear setup guides for a variety of MCP clients. Built by the team behind the **Highlight MCP client**",
-    "repository": {
-      "url": "https://mcpservers.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-servers-rating-and-user-reviews:02b3b213",
-    "icon": null,
-    "name": "MCP Servers Rating and User Reviews",
-    "description": "Website to rate MCP servers, write authentic user reviews, and search engine for agent & mcp",
-    "repository": {
-      "url": "http://www.deepnlp.org/store/ai-agent/mcp-server",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-sky:298309e9",
-    "icon": null,
-    "name": "MCP Sky",
-    "description": "Bluesky feed for MCP related news and discussion by **@brianell.in**",
-    "repository": {
-      "url": "https://bsky.app/profile/brianell.in/feed/mcp",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-x-community:b8b95118",
-    "icon": null,
-    "name": "MCP X Community",
-    "description": "",
-    "repository": {
-      "url": "https://x.com/i/communities/1861891349609603310",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcphub:9dd0d6f1",
-    "icon": null,
-    "name": "MCPHub",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/Jeamee/MCPHub-Desktop",
-      "source": "github",
-      "stars": 149,
-      "lastUpdated": "2026-05-11T01:33:40Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcpm:54041032",
-    "icon": null,
-    "name": "mcpm",
-    "description": "",
-    "repository": {
-      "url": "https://github.com/pathintegral-institute/mcpm.sh",
-      "source": "github",
-      "stars": 954,
-      "lastUpdated": "2026-05-27T20:47:00Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcpverse:96f8021c",
-    "icon": null,
-    "name": "MCPVerse",
-    "description": "A portal for creating & hosting authenticated MCP servers and connecting to them securely.",
-    "repository": {
-      "url": "https://mcpverse.dev",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-servers-search:31c5bec2",
-    "icon": null,
-    "name": "MCP Servers Search",
-    "description": "An MCP server that provides tools for querying and discovering available MCP servers from this list.",
-    "repository": {
-      "url": "https://github.com/atonomus/mcp-servers-search",
-      "source": "github",
-      "stars": 2,
-      "lastUpdated": "2026-05-13T18:42:35Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ],
-    "serverName": "mcp-servers-search",
-    "serverConfig": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@atonomus/mcp-servers-search"
-      ]
-    }
-  },
-  {
-    "id": "search-mcp-server:40719436",
-    "icon": null,
-    "name": "Search MCP Server",
-    "description": "Recommends the most relevant MCP servers based on the client's query by searching this README file.",
-    "repository": {
-      "url": "https://github.com/krzysztofkucmierz/search-mcp-server",
-      "source": "github",
-      "stars": 1,
-      "lastUpdated": "2025-12-05T01:21:07Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ],
-    "serverName": "search-mcp-server",
-    "serverConfig": {
-      "type": "http",
-      "url": "http://127.0.0.1:8000/sse"
-    }
-  },
-  {
-    "id": "mcpwatch:ecda9368",
-    "icon": null,
-    "name": "MCPWatch",
-    "description": "A comprehensive security scanner for Model Context Protocol (MCP) servers that detects vulnerabilities and security issues in your MCP server implementations.",
-    "repository": {
-      "url": "https://github.com/kapilduraphe/mcp-watch",
-      "source": "github",
-      "stars": 129,
-      "lastUpdated": "2026-05-27T06:09:35Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mkinf:63dee8e2",
-    "icon": "/icons/mkinf:63dee8e2.png",
-    "name": "mkinf",
-    "description": "An Open Source registry of hosted MCP Servers to accelerate AI agent workflows.",
-    "repository": {
-      "url": "https://mkinf.io",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "open-sourced-mcp-servers-directory:3b7a594f",
-    "icon": null,
-    "name": "Open-Sourced MCP Servers Directory",
-    "description": "A curated list of MCP servers by **mcpso**",
-    "repository": {
-      "url": "https://github.com/chatmcp/mcp-directory",
-      "source": "github",
-      "stars": 2011,
-      "lastUpdated": "2026-05-26T07:21:51Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "opentools:e57cced5",
-    "icon": "/icons/opentools:e57cced5.ico",
-    "name": "OpenTools",
-    "description": "An open registry for finding, installing, and building with MCP servers by **opentoolsteam**",
-    "repository": {
-      "url": "https://opentools.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "programmatic-mcp-prototype:d5b987d4",
-    "icon": null,
-    "name": "Programmatic MCP Prototype",
-    "description": "Experimental agent prototype demonstrating programmatic MCP tool composition, progressive tool discovery, state persistence, and skill building through TypeScript code execution by **Adam Jones**",
-    "repository": {
-      "url": "https://github.com/domdomegg/programmatic-mcp-prototype",
-      "source": "github",
-      "stars": 41,
-      "lastUpdated": "2026-04-13T06:05:02Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "pulsemcp:cc578608",
-    "icon": null,
-    "name": "PulseMCP",
-    "description": "",
-    "repository": {
-      "url": "https://www.pulsemcp.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "r-mcp:089722e8",
-    "icon": null,
-    "name": "r/mcp",
-    "description": "",
-    "repository": {
-      "url": "https://www.reddit.com/r/mcp",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-ing:32e26767",
-    "icon": null,
-    "name": "MCP.ing",
-    "description": "A list of MCP services for discovering MCP servers in the community and providing a convenient search function for MCP services by **iiiusky**",
-    "repository": {
-      "url": "https://mcp.ing/",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "mcp-hunt:eb9fceda",
-    "icon": null,
-    "name": "MCP Hunt",
-    "description": "Realtime platform for discovering trending MCP servers with momentum tracking, upvoting, and community discussions - like Product Hunt meets Reddit for MCP",
-    "repository": {
-      "url": "https://mcp-hunt.com",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "smithery:b03fd11e",
-    "icon": null,
-    "name": "Smithery",
-    "description": "A registry of MCP servers to find the right tools for your LLM agents by **Henry Mao**",
-    "repository": {
-      "url": "https://smithery.ai/",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "toolbase:6dd511b0",
-    "icon": null,
-    "name": "Toolbase",
-    "description": "Desktop application that manages tools and MCP servers with just a few clicks - no coding required by **gching**",
-    "repository": {
-      "url": "https://gettoolbase.ai",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "toolhive:3bebf425",
-    "icon": null,
-    "name": "ToolHive",
-    "description": "A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization by **StacklokLabs**",
-    "repository": {
-      "url": "https://github.com/StacklokLabs/toolhive",
-      "source": "github",
-      "stars": 1835,
-      "lastUpdated": "2026-05-29T19:09:39Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "netmind:7f394c65",
-    "icon": null,
-    "name": "NetMind",
-    "description": "Access powerful AI services via simple APIs or MCP servers to supercharge your productivity.",
-    "repository": {
-      "url": "https://www.netmind.ai/AIServices",
-      "source": "other"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ]
-  },
-  {
-    "id": "webrix-mcp-gateway:d391e03a",
-    "icon": null,
-    "name": "Webrix MCP Gateway",
-    "description": "Enterprise MCP gateway with SSO, RBAC, audit trails, and token vaults for secure, centralized AI agent access control. Deploy via Helm charts on-premise or in your cloud. webrix.ai",
-    "repository": {
-      "url": "https://github.com/webrix-ai/secure-mcp-gateway",
-      "source": "github",
-      "stars": 20,
-      "lastUpdated": "2026-05-13T02:56:09Z"
-    },
-    "tags": [
-      "reference",
-      "archived"
-    ],
-    "serverName": "webrix-mcp-gateway",
-    "serverConfig": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@your-mcp-server"
-      ],
-      "env": {
-        "API_KEY": "your-api-key"
-      }
     }
   }
 ]
