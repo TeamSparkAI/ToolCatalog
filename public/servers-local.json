@@ -7,8 +7,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -31,8 +31,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -54,8 +54,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -80,8 +80,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -105,8 +105,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -129,8 +129,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -153,8 +153,8 @@
     "repository": {
       "url": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
       "source": "github",
-      "stars": 88095,
-      "lastUpdated": "2026-07-06T06:37:53Z"
+      "stars": 88136,
+      "lastUpdated": "2026-07-07T06:14:09Z"
     },
     "tags": [
       "reference"
@@ -177,7 +177,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/aws-kb-retrieval-server",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -207,7 +207,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -235,7 +235,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/everart",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -263,7 +263,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -291,7 +291,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -320,7 +320,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -348,7 +348,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -376,7 +376,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -402,7 +402,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -427,7 +427,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -453,7 +453,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -479,7 +479,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
@@ -509,7 +509,7 @@
       "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
       "source": "github",
       "stars": 286,
-      "lastUpdated": "2026-07-05T03:05:48Z"
+      "lastUpdated": "2026-07-06T12:15:47Z"
     },
     "tags": [
       "reference",
